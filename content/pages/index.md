@@ -13,7 +13,7 @@ sections:
       sustainable way that has a positive impact not just for today but for
       those coming tomorrow."
     actions:
-      - label: Get started
+      - label: Schedule A Meeting
         altText: ''
         url: /
         showIcon: false
