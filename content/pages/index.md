@@ -22,7 +22,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: Ward 5 Survey
         altText: ''
         url: /
         showIcon: true
