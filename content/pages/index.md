@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Jacob Cloutier for Ward 5 Fredericton City Council.
+      text: Jacob Cloutier
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
