@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: for Ward 5 Fredericton City Council.
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      "My goal is to help Fredericton and Marysville grow in a meaningful,
+      sustainable way that has a positive impact not just for today but for
+      those coming tomorrow."
     actions:
       - label: Get started
         altText: ''
