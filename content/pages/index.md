@@ -175,7 +175,7 @@ sections:
     actions:
       - type: Link
         label: Learn More About My Platform
-        url: /
+        url: /platform
         showIcon: true
         icon: arrowRight
         iconPosition: right
