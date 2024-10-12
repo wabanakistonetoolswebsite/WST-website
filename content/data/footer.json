@@ -51,7 +51,7 @@
                 "type": "Link"
             },
             {
-                "label": "Blog",
+                "label": "Schedule Meeting",
                 "url": "/blog",
                 "icon": "arrowRight",
                 "iconPosition": "right",
