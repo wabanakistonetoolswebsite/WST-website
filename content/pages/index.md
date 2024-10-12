@@ -110,7 +110,7 @@ sections:
           transit is a mess. Together we can do better.
       - type: FeaturedItem
         title: ''
-        subtitle: Vote Honest Governance
+        subtitle: ✔ Vote Honest Governance
         image:
           type: ImageBlock
           altText: ''
