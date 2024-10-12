@@ -110,7 +110,7 @@ sections:
           transit is a mess. Together we can do better.
       - type: FeaturedItem
         title: ''
-        subtitle: ''
+        subtitle: Vote Honest Governance
         image:
           type: ImageBlock
           altText: Chunky Cotton Knit Throw
