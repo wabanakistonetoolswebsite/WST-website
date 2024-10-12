@@ -131,7 +131,7 @@ sections:
           - pt-0
           - pl-8
           - pb-0
-          - pr-8
+          - pr-0
         justifyContent: flex-start
       subtitle:
         textAlign: center
