@@ -223,7 +223,7 @@ sections:
         label: Get started
         altText: ''
         url: /
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: left
         style: secondary
