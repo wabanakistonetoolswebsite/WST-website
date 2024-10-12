@@ -125,7 +125,7 @@
 
     /* Buttons */
     .sb-component-button {
-        @apply inline-flex justify-center items-center text-center border transition duration-100 ease-in hover:-translate-y-1 hover:drop-shadow-sm;
+        @apply inline-flex justify-center items-center text-center border transition duration-100 ease-in hover:-translate-y-1 hover:drop-shadow-md;
     }
 
     /* Links */
@@ -184,10 +184,10 @@
             @apply placeholder-dark/50;
         }
         .sb-component-button-primary {
-            @apply bg-primary border-primary text-light hover:drop-shadow-sm;
+            @apply bg-primary border-primary text-light hover:drop-shadow-md;
         }
         .sb-component-button-secondary {
-            @apply border-primary text-primary hover:text-light hover:bg-primary hover:drop-shadow-sm;
+            @apply border-primary text-primary hover:text-light hover:bg-primary hover:drop-shadow-md;
         }
         .sb-image-strip-wrap {
             &:before,
