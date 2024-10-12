@@ -44,7 +44,7 @@
             {
                 "label": "Ward 5 Feedback Survey",
                 "altText": "Ward 5 Feedback Survey",
-                "url": "/",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLScpOHV8b15clE_aoBj7Jo_BqqpUWUu49Uhgg27mJFD16yPQOw/viewform",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -52,7 +52,7 @@
             },
             {
                 "label": "Schedule Meeting",
-                "url": "/",
+                "url": "https://calendly.com/jacobcloutier/30min",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
