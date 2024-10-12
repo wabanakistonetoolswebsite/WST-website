@@ -152,9 +152,26 @@ sections:
     subtitle: >-
       My name is Jacob Cloutier and I am running for the position of councilor
       for our beloved Marysville (Ward 5).
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      If elected, there are four key areas I plan to address:
+
+
+      *   Homelessness & poverty.
+
+
+      *   Infrastructure issues such as we are seeing with the Marysville
+      Bridge. There have also been growing concerns with the quality of our
+      sidewalks, especially during winter months.
+
+
+      *   Development of a strong business and employee ecosystem for the
+      Fredericton Region.
+
+
+      *   Councilor wage control
+
+
+
     actions:
       - type: Button
         label: Get started
