@@ -54,7 +54,7 @@ export default function FeaturedItemsSection(props) {
                 />
                 {actions.length > 0 && (
                     <div
-                        className={classNames('flex', 'flex-wrap', 'items-center', {
+                        className={classNames('flex', 'flex-wrap', 'items-center', 'gap-4', {
                             'mt-12': badge?.label || title?.text || subtitle || items.length > 0
                         })}
                         {...(enableAnnotations && { 'data-sb-field-path': '.actions' })}
@@ -98,7 +98,7 @@ function FeaturedItemsThreeColGrid(props) {
     const FeaturedItem = getComponent('FeaturedItem');
     return (
         <div
-            className={classNames('w-full', 'grid', 'gap-10', 'sm:grid-cols-2', 'lg:grid-cols-3', { 'mt-12': hasTopMargin })}
+            className={classNames('w-full', 'grid', 'sm:grid-cols-2', 'lg:grid-cols-3', { 'mt-12': hasTopMargin })}
             {...(hasAnnotations && { 'data-sb-field-path': '.items' })}
         >
             {items.map((item, index) => (
