@@ -11,7 +11,7 @@
             {
                 "label": "Platform",
                 "altText": "Platform page",
-                "url": "/",
+                "url": "/platform",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
