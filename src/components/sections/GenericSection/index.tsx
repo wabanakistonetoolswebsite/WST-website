@@ -39,6 +39,17 @@ export default function GenericSection(props) {
                     'gap-y-16'
                 )}
             >
+                {hasMedia && (
+                    <div
+                        className={classNames('w-full', 'flex', mapStyles({ justifyContent: styles?.self?.justifyContent ?? 'flex-start' }), {
+                            'max-w-sectionBody': media.__metadata.modelName === 'FormBlock',
+                            'md:w-[57.5%] lg:shrink-0': hasTextContent && hasXDirection,
+                            'md:mt-10': badge?.label && media.__metadata.modelName === 'FormBlock' && hasXDirection
+                        })}
+                    >
+                        <Media media={media} hasAnnotations={enableAnnotations} />
+                    </div>
+                )}
                 {hasTextContent && (
                     <div
                         className={classNames('w-full', 'max-w-sectionBody', 'p-4' , {
@@ -96,17 +107,6 @@ export default function GenericSection(props) {
                                 ))}
                             </div>
                         )}
-                    </div>
-                )}
-                {hasMedia && (
-                    <div
-                        className={classNames('w-full', 'flex', mapStyles({ justifyContent: styles?.self?.justifyContent ?? 'flex-start' }), {
-                            'max-w-sectionBody': media.__metadata.modelName === 'FormBlock',
-                            'md:w-[57.5%] lg:shrink-0': hasTextContent && hasXDirection,
-                            'md:mt-10': badge?.label && media.__metadata.modelName === 'FormBlock' && hasXDirection
-                        })}
-                    >
-                        <Media media={media} hasAnnotations={enableAnnotations} />
                     </div>
                 )}
             </div>
