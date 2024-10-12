@@ -220,7 +220,7 @@ sections:
       Please take a few minutes to fill out the survey below.
     actions:
       - type: Link
-        label: See Tutorials
+        label: Have Your Voice Heard
         altText: ''
         url: /
         showIcon: false
