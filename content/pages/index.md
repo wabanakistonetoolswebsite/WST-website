@@ -225,7 +225,7 @@ sections:
         url: /
         showIcon: true
         icon: arrowRight
-        iconPosition: left
+        iconPosition: right
         style: secondary
         elementId: ''
     colors: bg-light-fg-dark
