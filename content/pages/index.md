@@ -46,7 +46,7 @@ sections:
     styles:
       self:
         alignItems: center
-        flexDirection: row
+        flexDirection: row-reverse
         padding:
           - pt-0
           - pl-0
@@ -60,7 +60,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: ✔ Vote More Provincial Support
+        subtitle: ''
         image:
           type: ImageBlock
           altText: ''
@@ -85,11 +85,14 @@ sections:
             borderWidth: 0
             borderStyle: none
         text: >
+          ### ✔ Vote More Provincial Support
+
+
           Fredericton has faced growing challenges, and our city should not be
           left to shoulder this burden alone.
       - type: FeaturedItem
         title: ''
-        subtitle: ✔ Vote Better Infrastructure
+        subtitle: ''
         image:
           type: ImageBlock
           altText: ''
@@ -108,11 +111,14 @@ sections:
               - pr-6
         tagline: ''
         text: >
+          ### ✔ Vote Better Infrastructure
+
+
           Sidewalks are treacherous in winter, our bridge is hardly functional,
           transit is a mess. Together we can do better.
       - type: FeaturedItem
         title: ''
-        subtitle: ✔ Vote Honest Governance
+        subtitle: ''
         image:
           type: ImageBlock
           altText: ''
@@ -130,12 +136,15 @@ sections:
               - pb-6
               - pr-6
         text: >
+          ### ✔ Vote Honest Governance
+
+
           The last city council gave themselves an unjust 34% raise, and that’s
           not right.
     actions: []
     elementId: ''
     variant: three-col-grid
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
@@ -257,10 +266,10 @@ sections:
     styles:
       self:
         padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
     type: DividerSection
   - type: GenericSection
     title:
