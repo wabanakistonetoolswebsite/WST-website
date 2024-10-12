@@ -192,7 +192,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: About Jacob Cloutier
       color: text-dark
     subtitle: Be in good company
     text: >
