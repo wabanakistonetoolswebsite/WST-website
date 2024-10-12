@@ -129,7 +129,7 @@ sections:
       self:
         padding:
           - pt-0
-          - pl-8
+          - pl-0
           - pb-0
           - pr-0
         justifyContent: flex-start
