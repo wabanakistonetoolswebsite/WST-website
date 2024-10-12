@@ -196,8 +196,13 @@ sections:
       color: text-dark
     subtitle: Be in good company
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Born and raised in Maryville, this is where my family calls home. My
+      passion lies in spending quality time with family and in our community.
+      Volunteering and living in different parts of Maryville I have been
+      exposed to many diverse lifestyles and community challenges. Being driven
+      by a thirst for knowledge and always seeking solutions, I aim to
+      understand and address these challenges to improve our ward for my family
+      and yours.
     actions:
       - type: Button
         label: Get started
