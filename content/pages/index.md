@@ -48,9 +48,9 @@ sections:
         flexDirection: row
         padding:
           - pt-0
-          - pl-16
+          - pl-0
           - pb-0
-          - pr-16
+          - pr-0
       subtitle:
         fontWeight: 700
       text:
@@ -82,6 +82,7 @@ sections:
             justifyContent: center
             borderColor: border-light
             borderWidth: 0
+            borderStyle: none
         text: >
           Fredericton has faced growing challenges, and our city should not be
           left to shoulder this burden alone.
@@ -189,6 +190,7 @@ sections:
     styles:
       self:
         alignItems: center
+        flexDirection: row
   - type: DividerSection
     title: Divider
     elementId: ''
