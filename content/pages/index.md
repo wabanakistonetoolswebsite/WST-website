@@ -296,7 +296,7 @@ sections:
         alignItems: center
         flexDirection: row-reverse
   - title:
-      text: Grow your business 10x faster
+      text: Community Concerns Survey
       color: text-dark
       styles:
         self:
