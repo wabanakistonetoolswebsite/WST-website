@@ -35,29 +35,38 @@ export default function GenericSection(props) {
                     mapStyles({ alignItems: styles?.self?.justifyContent ?? 'flex-start' }),
                     /* handle vertical positioning of content on large screens if it's a two col layout */
                     hasMedia && hasTextContent && hasXDirection ? mapAlignItemsStyles(alignItems) : undefined,
-                    'gap-x-12',
-                    'gap-y-16'
+                    'gap-x-6',
+                    'gap-y-12'
                 )}
             >
+                {hasMedia && (
+                    <div
+                        className={classNames('w-full', 'flex', mapStyles({ justifyContent: styles?.self?.justifyContent ?? 'flex-start' }), {
+                            'max-w-sectionBody': media.__metadata.modelName === 'FormBlock',
+                            'md:w-[57.5%] lg:shrink-0': hasTextContent && hasXDirection,
+                            'md:mt-10': badge?.label && media.__metadata.modelName === 'FormBlock' && hasXDirection
+                        })}
+                    >
+                        <Media media={media} hasAnnotations={enableAnnotations} />
+                    </div>
+                )}
                 {hasTextContent && (
                     <div
-                        className={classNames('w-full', 'max-w-sectionBody', {
-                            'lg:max-w-[27.5rem]': hasMedia && hasXDirection
+                        className={classNames('w-full', 'max-w-sectionBody', 'p-4' , {
+                            'md:max-w-[27.5rem]': hasMedia && hasXDirection
                         })}
                     >
                         {badge && <Badge {...badge} {...(enableAnnotations && { 'data-sb-field-path': '.badge' })} />}
                         {title && (
                             <TitleBlock
                                 {...title}
-                                className={classNames({ 'mt-4': badge?.label })}
+                                className={classNames('lg:text-5xl',{ 'mt-4': badge?.label })}
                                 {...(enableAnnotations && { 'data-sb-field-path': '.title' })}
                             />
                         )}
                         {subtitle && (
                             <p
-                                className={classNames('text-lg', 'sm:text-2xl', styles?.subtitle ? mapStyles(styles?.subtitle) : undefined, {
-                                    'mt-4': badge?.label || title?.text
-                                })}
+                                className={classNames('text-lg', styles?.subtitle ? mapStyles(styles?.subtitle) : undefined)}
                                 {...(enableAnnotations && { 'data-sb-field-path': '.subtitle' })}
                             >
                                 {subtitle}
@@ -66,7 +75,7 @@ export default function GenericSection(props) {
                         {text && (
                             <Markdown
                                 options={{ forceBlock: true, forceWrapper: true }}
-                                className={classNames('sb-markdown', 'sm:text-lg', styles?.text ? mapStyles(styles?.text) : undefined, {
+                                className={classNames('sb-markdown', styles?.text ? mapStyles(styles?.text) : undefined, {
                                     'mt-6': badge?.label || title?.text || subtitle
                                 })}
                                 {...(enableAnnotations && { 'data-sb-field-path': '.text' })}
@@ -100,17 +109,6 @@ export default function GenericSection(props) {
                         )}
                     </div>
                 )}
-                {hasMedia && (
-                    <div
-                        className={classNames('w-full', 'flex', mapStyles({ justifyContent: styles?.self?.justifyContent ?? 'flex-start' }), {
-                            'max-w-sectionBody': media.__metadata.modelName === 'FormBlock',
-                            'lg:w-[57.5%] lg:shrink-0': hasTextContent && hasXDirection,
-                            'lg:mt-10': badge?.label && media.__metadata.modelName === 'FormBlock' && hasXDirection
-                        })}
-                    >
-                        <Media media={media} hasAnnotations={enableAnnotations} />
-                    </div>
-                )}
             </div>
         </Section>
     );
@@ -131,9 +129,9 @@ function Media({ media, hasAnnotations }: { media: any; hasAnnotations: boolean 
 function mapFlexDirectionStyles(flexDirection: string, hasTextContent: boolean, hasMedia: boolean) {
     switch (flexDirection) {
         case 'row':
-            return hasTextContent && hasMedia ? 'flex-col lg:flex-row lg:justify-between' : 'flex-col';
+            return hasTextContent && hasMedia ? 'flex-col md:flex-row md:justify-between' : 'flex-col';
         case 'row-reverse':
-            return hasTextContent && hasMedia ? 'flex-col lg:flex-row-reverse lg:justify-between' : 'flex-col';
+            return hasTextContent && hasMedia ? 'flex-col md:flex-row-reverse md:justify-between' : 'flex-col';
         case 'col':
             return 'flex-col';
         case 'col-reverse':
@@ -146,11 +144,11 @@ function mapFlexDirectionStyles(flexDirection: string, hasTextContent: boolean, 
 function mapAlignItemsStyles(alignItems: string) {
     switch (alignItems) {
         case 'flex-start':
-            return 'lg:items-start';
+            return 'md:items-start';
         case 'flex-end':
-            return 'lg:items-end';
+            return 'md:items-end';
         case 'center':
-            return 'lg:items-center';
+            return 'md:items-center';
         default:
             return null;
     }

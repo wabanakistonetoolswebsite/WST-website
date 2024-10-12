@@ -1,0 +1,54 @@
+{
+    "model": "FeaturedItem",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Vote Banner Item",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "List Items"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "",
+                "tagline": null,
+                "subtitle": "✔ Vote More Provincial Support",
+                "text": "Fredericton has faced growing challenges, and our city should not be left to shoulder this burden alone.\n",
+                "image": {
+                    "$$type": "ImageBlock",
+                    "url": null,
+                    "altText": "",
+                    "elementId": "",
+                    "styles": {
+                        "self": {
+                            "borderRadius": "medium"
+                        }
+                    }
+                },
+                "actions": [],
+                "elementId": null,
+                "colors": "bg-light-fg-dark",
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-6",
+                            "pl-6",
+                            "pb-6",
+                            "pr-6"
+                        ],
+                        "textAlign": "left",
+                        "borderRadius": "none",
+                        "flexDirection": "col",
+                        "justifyContent": "center",
+                        "borderColor": "border-light",
+                        "borderWidth": 0
+                    }
+                }
+            },
+            "thumbnail": "images/featured-item-vote-banner-item-bedf.png"
+        }
+    ]
+}
