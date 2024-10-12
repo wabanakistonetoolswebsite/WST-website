@@ -1,6 +1,6 @@
 ---
-title: Pricing
-slug: pricing
+title: Platform
+slug: platform
 sections:
   - title:
       text: Flexible Pricing
