@@ -59,7 +59,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: Vote More Provincial Support
+        subtitle: ✔ Vote More Provincial Support
         image:
           type: ImageBlock
           altText: ''
