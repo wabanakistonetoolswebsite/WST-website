@@ -78,7 +78,7 @@ sections:
               - pr-6
             textAlign: left
             borderRadius: none
-            flexDirection: row
+            flexDirection: col
             justifyContent: center
       - type: FeaturedItem
         title: Cotton Knit Throws
