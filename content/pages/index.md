@@ -192,7 +192,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: I'm Here to Represent You
       color: text-dark
       styles:
         self:
