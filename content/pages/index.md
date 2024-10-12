@@ -87,9 +87,7 @@ sections:
           left to shoulder this burden alone.
       - type: FeaturedItem
         title: Vote Better Infrastructure
-        subtitle: >-
-          Sidewalks are treacherous in winter, our bridge is hardly functional,
-          transit is a mess. Together we can do better.
+        subtitle: ''
         image:
           type: ImageBlock
           altText: Cotton Knit Throws
