@@ -141,7 +141,7 @@ sections:
           - pl-0
           - pb-0
           - pr-0
-        justifyContent: flex-start
+        justifyContent: flex-end
       subtitle:
         textAlign: center
   - type: DividerSection
