@@ -87,7 +87,7 @@ sections:
           left to shoulder this burden alone.
       - type: FeaturedItem
         title: ''
-        subtitle: Vote Better Infrastructure
+        subtitle: ✔ Vote Better Infrastructure
         image:
           type: ImageBlock
           altText: ''
