@@ -100,7 +100,7 @@ sections:
               - pb-6
               - pr-6
       - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
+        title: Vote Honest Governance
         subtitle: $117
         image:
           type: ImageBlock
