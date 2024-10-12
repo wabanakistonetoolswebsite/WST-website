@@ -203,14 +203,7 @@ sections:
       by a thirst for knowledge and always seeking solutions, I aim to
       understand and address these challenges to improve our ward for my family
       and yours.
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/FamilyPhoto.png
