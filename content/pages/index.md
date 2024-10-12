@@ -59,9 +59,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Vote More Provincial Support
-        subtitle: >-
-          Fredericton has faced growing challenges, and our city should not be
-          left to shoulder this burden alone.
+        subtitle: ''
         image:
           type: ImageBlock
           altText: Faux Fur Throw
