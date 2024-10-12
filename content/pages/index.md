@@ -110,9 +110,7 @@ sections:
           transit is a mess. Together we can do better.
       - type: FeaturedItem
         title: Vote Honest Governance
-        subtitle: >-
-          The last city council gave themselves an unjust 34% raise, and that’s
-          not right.
+        subtitle: ''
         image:
           type: ImageBlock
           altText: Chunky Cotton Knit Throw
