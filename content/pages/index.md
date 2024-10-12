@@ -127,6 +127,9 @@ sections:
               - pl-6
               - pb-6
               - pr-6
+        text: >
+          The last city council gave themselves an unjust 34% raise, and that’s
+          not right.
     actions: []
     elementId: ''
     variant: three-col-grid
