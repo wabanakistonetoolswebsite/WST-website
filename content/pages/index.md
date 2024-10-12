@@ -180,6 +180,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
+        altText: Learn More About My Platform
     media:
       type: ImageBlock
       url: /images/hero2.svg
