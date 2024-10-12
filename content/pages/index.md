@@ -113,7 +113,7 @@ sections:
         subtitle: Vote Honest Governance
         image:
           type: ImageBlock
-          altText: Chunky Cotton Knit Throw
+          altText: ''
           elementId: ''
           styles:
             self:
