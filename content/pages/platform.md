@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Platform
 slug: platform
 sections:
   - title:
