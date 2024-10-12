@@ -7,6 +7,9 @@ sections:
       text: Jacob Cloutier
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          fontWeight: 700
     subtitle: for Ward 5 Fredericton City Council.
     text: >
       "My goal is to help Fredericton and Marysville grow in a meaningful,
