@@ -149,7 +149,9 @@ sections:
       type: TitleBlock
       text: Commitment To Our Community
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: >-
+      My name is Jacob Cloutier and I am running for the position of councilor
+      for our beloved Marysville (Ward 5).
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
