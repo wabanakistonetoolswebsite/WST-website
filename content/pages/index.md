@@ -204,12 +204,6 @@ sections:
       understand and address these challenges to improve our ward for my family
       and yours.
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
