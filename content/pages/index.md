@@ -218,7 +218,16 @@ sections:
 
 
       Please take a few minutes to fill out the survey below.
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     colors: bg-light-fg-dark
     styles:
       self:
