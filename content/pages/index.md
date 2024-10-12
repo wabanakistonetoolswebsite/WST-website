@@ -194,7 +194,7 @@ sections:
       type: TitleBlock
       text: About Jacob Cloutier
       color: text-dark
-    subtitle: Be in good company
+    subtitle: ''
     text: >
       Born and raised in Maryville, this is where my family calls home. My
       passion lies in spending quality time with family and in our community.
