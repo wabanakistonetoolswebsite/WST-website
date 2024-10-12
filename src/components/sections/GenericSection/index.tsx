@@ -41,7 +41,7 @@ export default function GenericSection(props) {
             >
                 {hasTextContent && (
                     <div
-                        className={classNames('w-full', 'max-w-sectionBody', 'mt-4' , {
+                        className={classNames('w-full', 'max-w-sectionBody', 'm-4' , {
                             'lg:max-w-[27.5rem]': hasMedia && hasXDirection
                         })}
                     >
