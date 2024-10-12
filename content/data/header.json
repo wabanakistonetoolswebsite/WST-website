@@ -41,7 +41,7 @@
         {
             "type": "Link",
             "label": "Home",
-            "altText": "",
+            "altText": "Home Page",
             "url": "/",
             "showIcon": false,
             "icon": "arrowRight",
