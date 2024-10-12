@@ -42,7 +42,7 @@ export default function GenericSection(props) {
                 {hasTextContent && (
                     <div
                         className={classNames('w-full', 'max-w-sectionBody', 'm-4' , {
-                            'lg:max-w-[27.5rem]': hasMedia && hasXDirection
+                            'md:max-w-[27.5rem]': hasMedia && hasXDirection
                         })}
                     >
                         {badge && <Badge {...badge} {...(enableAnnotations && { 'data-sb-field-path': '.badge' })} />}
@@ -104,8 +104,8 @@ export default function GenericSection(props) {
                     <div
                         className={classNames('w-full', 'flex', mapStyles({ justifyContent: styles?.self?.justifyContent ?? 'flex-start' }), {
                             'max-w-sectionBody': media.__metadata.modelName === 'FormBlock',
-                            'lg:w-[57.5%] lg:shrink-0': hasTextContent && hasXDirection,
-                            'lg:mt-10': badge?.label && media.__metadata.modelName === 'FormBlock' && hasXDirection
+                            'md:w-[57.5%] lg:shrink-0': hasTextContent && hasXDirection,
+                            'md:mt-10': badge?.label && media.__metadata.modelName === 'FormBlock' && hasXDirection
                         })}
                     >
                         <Media media={media} hasAnnotations={enableAnnotations} />
@@ -131,9 +131,9 @@ function Media({ media, hasAnnotations }: { media: any; hasAnnotations: boolean 
 function mapFlexDirectionStyles(flexDirection: string, hasTextContent: boolean, hasMedia: boolean) {
     switch (flexDirection) {
         case 'row':
-            return hasTextContent && hasMedia ? 'flex-col lg:flex-row lg:justify-between' : 'flex-col';
+            return hasTextContent && hasMedia ? 'flex-col md:flex-row md:justify-between' : 'flex-col';
         case 'row-reverse':
-            return hasTextContent && hasMedia ? 'flex-col lg:flex-row-reverse lg:justify-between' : 'flex-col';
+            return hasTextContent && hasMedia ? 'flex-col md:flex-row-reverse md:justify-between' : 'flex-col';
         case 'col':
             return 'flex-col';
         case 'col-reverse':
@@ -146,11 +146,11 @@ function mapFlexDirectionStyles(flexDirection: string, hasTextContent: boolean, 
 function mapAlignItemsStyles(alignItems: string) {
     switch (alignItems) {
         case 'flex-start':
-            return 'lg:items-start';
+            return 'md:items-start';
         case 'flex-end':
-            return 'lg:items-end';
+            return 'md:items-end';
         case 'center':
-            return 'lg:items-center';
+            return 'md:items-center';
         default:
             return null;
     }
