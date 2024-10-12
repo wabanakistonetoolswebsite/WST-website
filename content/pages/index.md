@@ -109,7 +109,7 @@ sections:
           Sidewalks are treacherous in winter, our bridge is hardly functional,
           transit is a mess. Together we can do better.
       - type: FeaturedItem
-        title: Vote Honest Governance
+        title: ''
         subtitle: ''
         image:
           type: ImageBlock
