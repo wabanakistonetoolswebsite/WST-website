@@ -231,7 +231,7 @@ sections:
     colors: bg-light-fg-dark
     styles:
       self:
-        flexDirection: row
+        flexDirection: row-reverse
         justifyContent: flex-start
       subtitle:
         textAlign: left
