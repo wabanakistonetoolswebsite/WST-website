@@ -7,11 +7,15 @@ sections:
       text: Jacob Cloutier
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          fontWeight: 700
     subtitle: for Ward 5 Fredericton City Council.
-    text: >
-      "My goal is to help Fredericton and Marysville grow in a meaningful,
+    text: >+
+      > My goal is to help Fredericton and Marysville grow in a meaningful,
       sustainable way that has a positive impact not just for today but for
-      those coming tomorrow."
+      those coming tomorrow.
+
     actions:
       - label: Schedule a Meeting
         altText: ''
@@ -43,10 +47,103 @@ sections:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-16
+          - pt-0
           - pl-16
-          - pb-16
+          - pb-0
           - pr-16
+      subtitle:
+        fontWeight: 700
+      text:
+        textAlign: left
+  - type: FeaturedItemsSection
+    items:
+      - type: FeaturedItem
+        title: ''
+        subtitle: Vote More Provincial Support
+        image:
+          type: ImageBlock
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pl-6
+              - pb-6
+              - pr-6
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+            borderColor: border-light
+            borderWidth: 0
+        text: >
+          Fredericton has faced growing challenges, and our city should not be
+          left to shoulder this burden alone.
+      - type: FeaturedItem
+        title: ''
+        subtitle: Vote Better Infrastructure
+        image:
+          type: ImageBlock
+          altText: Cotton Knit Throws
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pl-6
+              - pb-6
+              - pr-6
+        tagline: ''
+        text: >
+          Sidewalks are treacherous in winter, our bridge is hardly functional,
+          transit is a mess. Together we can do better.
+      - type: FeaturedItem
+        title: ''
+        subtitle: Vote Honest Governance
+        image:
+          type: ImageBlock
+          altText: Chunky Cotton Knit Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pl-6
+              - pb-6
+              - pr-6
+        text: >
+          The last city council gave themselves an unjust 34% raise, and that’s
+          not right.
+    actions: []
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
+        justifyContent: flex-start
+      subtitle:
+        textAlign: center
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
