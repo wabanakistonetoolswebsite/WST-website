@@ -303,11 +303,10 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Your voice matters! Fill out this short survey to share your concerns and
+      ideas for improving our community. Your feedback will help shape policies
+      that reflect our residents' needs. Together, we can build a better future!
     badge:
       label: ''
       color: text-primary
