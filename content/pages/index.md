@@ -59,7 +59,9 @@ sections:
     items:
       - type: FeaturedItem
         title: Vote More Provincial Support
-        subtitle: $ 88 – $ 176
+        subtitle: >-
+          Fredericton has faced growing challenges, and our city should not be
+          left to shoulder this burden alone.
         image:
           type: ImageBlock
           altText: Faux Fur Throw
