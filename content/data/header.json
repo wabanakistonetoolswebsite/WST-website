@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Platform",
-            "url": "/pricing",
+            "url": "/platform",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
