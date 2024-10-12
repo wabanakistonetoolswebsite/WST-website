@@ -174,7 +174,7 @@ sections:
 
     actions:
       - type: Link
-        label: See Tutorials
+        label: Learn More About My Platform
         url: /
         showIcon: true
         icon: arrowRight
