@@ -84,7 +84,9 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Vote Better Infrastructure
-        subtitle: $ 44.99 – $ 90
+        subtitle: >-
+          Sidewalks are treacherous in winter, our bridge is hardly functional,
+          transit is a mess. Together we can do better.
         image:
           type: ImageBlock
           altText: Cotton Knit Throws
