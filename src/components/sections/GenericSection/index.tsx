@@ -55,9 +55,7 @@ export default function GenericSection(props) {
                         )}
                         {subtitle && (
                             <p
-                                className={classNames('text-lg', styles?.subtitle ? mapStyles(styles?.subtitle) : undefined, {
-                                    'mt-4': badge?.label || title?.text
-                                })}
+                                className={classNames('text-lg', styles?.subtitle ? mapStyles(styles?.subtitle) : undefined)}
                                 {...(enableAnnotations && { 'data-sb-field-path': '.subtitle' })}
                             >
                                 {subtitle}
