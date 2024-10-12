@@ -198,11 +198,26 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      I will be visiting door to door throughout 2024 to learn about your needs
+      and desires for Marysville and Fredericton in general. This will help me
+      to focus on what matters most to you. I intend to follow up in 2025 and
+      2026 with additional outreach and surveys to make sure I am on track and
+      stay aligned with community needs.
+
+
+      If elected, I will continue to listen and stay on course to support all of
+      Ward 5 and Fredericton.
+
+
+      Between now and the election day I will be meeting with as many local
+      leaders and professionals as I can that effect or have insight about our
+      city and talk about what we are doing right and what we could do better ,
+      my goal will be to meet with over 100 of these individuals at this stage I
+      have met with 15.
+
+
+      Please take a few minutes to fill out the survey below.
     actions: []
     colors: bg-light-fg-dark
     styles:
