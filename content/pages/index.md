@@ -90,7 +90,7 @@ sections:
         subtitle: Vote Better Infrastructure
         image:
           type: ImageBlock
-          altText: Cotton Knit Throws
+          altText: ''
           elementId: ''
           styles:
             self:
