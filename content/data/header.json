@@ -34,7 +34,7 @@
         {
             "type": "Link",
             "label": "ward 5",
-            "altText": "",
+            "altText": "About Ward 5: Marysville",
             "url": "/ward5-marysville",
             "showIcon": false,
             "icon": "arrowRight",
