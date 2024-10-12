@@ -219,15 +219,6 @@ sections:
 
       Please take a few minutes to fill out the survey below.
     actions:
-      - type: Button
-        label: Have Your Voice Heard
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
       - type: Link
         label: See Tutorials
         altText: ''
