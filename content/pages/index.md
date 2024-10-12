@@ -79,7 +79,7 @@ sections:
             textAlign: left
             borderRadius: none
             flexDirection: col
-            justifyContent: flex-start
+            justifyContent: center
       - type: FeaturedItem
         title: Cotton Knit Throws
         subtitle: $ 44.99 – $ 90
