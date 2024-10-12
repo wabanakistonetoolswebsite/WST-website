@@ -1,6 +1,6 @@
 ---
 title: Ward 5
-slug: careers
+slug: ward5-marysville
 sections:
   - title:
       text: A team that works closely together
