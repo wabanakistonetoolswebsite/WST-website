@@ -19,7 +19,7 @@
             },
             {
                 "label": "Ward 5",
-                "url": "/pricing",
+                "url": "/ward5",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
