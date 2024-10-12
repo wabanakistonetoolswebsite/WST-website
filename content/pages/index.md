@@ -19,7 +19,7 @@ sections:
     actions:
       - label: Schedule a Meeting
         altText: ''
-        url: /
+        url: 'https://calendly.com/jacobcloutier/30min'
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -27,8 +27,9 @@ sections:
         elementId: ''
         type: Button
       - label: Feedback Survey
-        altText: ''
-        url: /
+        altText: 'Ward 5: Marysville Feedback Survey'
+        url: >-
+          https://docs.google.com/forms/d/e/1FAIpQLScpOHV8b15clE_aoBj7Jo_BqqpUWUu49Uhgg27mJFD16yPQOw/viewform
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -148,7 +149,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Commitment To Our Community
+      text: My Commitment To Our Home
       color: text-dark
     subtitle: >-
       My name is Jacob Cloutier and I am running for the position of councilor
@@ -190,7 +191,7 @@ sections:
     styles:
       self:
         alignItems: center
-        flexDirection: row
+        flexDirection: row-reverse
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -234,8 +235,11 @@ sections:
     actions:
       - type: Link
         label: Have Your Voice Heard
-        altText: ''
-        url: /
+        altText: >-
+          Have your voice heard by submitting a short survey about ward 5
+          Marysville
+        url: >-
+          https://docs.google.com/forms/d/e/1FAIpQLScpOHV8b15clE_aoBj7Jo_BqqpUWUu49Uhgg27mJFD16yPQOw/viewform
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -316,8 +320,11 @@ sections:
     actions:
       - type: Button
         label: Have Your Voice Heard
-        altText: ''
-        url: /
+        altText: >-
+          Have your voice heard by submitting a short survey about ward 5
+          Marysville
+        url: >-
+          https://docs.google.com/forms/d/e/1FAIpQLScpOHV8b15clE_aoBj7Jo_BqqpUWUu49Uhgg27mJFD16yPQOw/viewform
         showIcon: false
         icon: arrowRight
         iconPosition: right
