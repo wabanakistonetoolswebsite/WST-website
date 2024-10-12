@@ -58,7 +58,7 @@ sections:
   - type: FeaturedItemsSection
     items:
       - type: FeaturedItem
-        title: Vote More Provincial Support
+        title: ''
         subtitle: ''
         image:
           type: ImageBlock
