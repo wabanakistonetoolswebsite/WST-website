@@ -105,7 +105,9 @@ sections:
               - pr-6
       - type: FeaturedItem
         title: Vote Honest Governance
-        subtitle: $117
+        subtitle: >-
+          The last city council gave themselves an unjust 34% raise, and that’s
+          not right.
         image:
           type: ImageBlock
           altText: Chunky Cotton Knit Throw
