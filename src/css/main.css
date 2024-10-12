@@ -184,10 +184,10 @@
             @apply placeholder-dark/50;
         }
         .sb-component-button-primary {
-            @apply bg-primary border-primary text-light;
+            @apply bg-primary border-primary text-light hover:drop-shadow-sm;
         }
         .sb-component-button-secondary {
-            @apply border-primary text-primary;
+            @apply border-primary text-primary hover:text-light hover:bg-primary hover:drop-shadow-sm;
         }
         .sb-image-strip-wrap {
             &:before,
