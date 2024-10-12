@@ -226,7 +226,7 @@ sections:
         showIcon: false
         icon: arrowRight
         iconPosition: left
-        style: primary
+        style: secondary
         elementId: ''
     colors: bg-light-fg-dark
     styles:
