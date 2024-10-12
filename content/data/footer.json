@@ -44,7 +44,7 @@
             {
                 "label": "Ward 5 Feedback Survey",
                 "altText": "Ward 5 Feedback Survey",
-                "url": "/careers",
+                "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
