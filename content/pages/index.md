@@ -105,6 +105,9 @@ sections:
               - pb-6
               - pr-6
         tagline: ''
+        text: >
+          Sidewalks are treacherous in winter, our bridge is hardly functional,
+          transit is a mess. Together we can do better.
       - type: FeaturedItem
         title: Vote Honest Governance
         subtitle: >-
