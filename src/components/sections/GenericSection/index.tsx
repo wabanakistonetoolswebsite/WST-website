@@ -60,7 +60,7 @@ export default function GenericSection(props) {
                         {title && (
                             <TitleBlock
                                 {...title}
-                                className={classNames('lg:text-6xl',{ 'mt-4': badge?.label })}
+                                className={classNames('lg:text-5xl',{ 'mt-4': badge?.label })}
                                 {...(enableAnnotations && { 'data-sb-field-path': '.title' })}
                             />
                         )}
