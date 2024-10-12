@@ -180,7 +180,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-        altText: Learn More About My Platform
+        altText: Learn More About Jacob Cloutier's Platform
     media:
       type: ImageBlock
       url: /images/hero2.svg
