@@ -183,7 +183,7 @@ sections:
         altText: Learn More About Jacob Cloutier's Platform
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/HistoricalMarysville.png
       altText: Fun feature preview
     badge:
       type: Badge
