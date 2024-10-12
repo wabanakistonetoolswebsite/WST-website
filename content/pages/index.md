@@ -106,6 +106,7 @@ sections:
               - pl-6
               - pb-6
               - pr-6
+        tagline: Vote Better Infrastructure
       - type: FeaturedItem
         title: Vote Honest Governance
         subtitle: >-
