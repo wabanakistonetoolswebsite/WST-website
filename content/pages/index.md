@@ -86,7 +86,7 @@ sections:
           Fredericton has faced growing challenges, and our city should not be
           left to shoulder this burden alone.
       - type: FeaturedItem
-        title: Vote Better Infrastructure
+        title: ''
         subtitle: ''
         image:
           type: ImageBlock
