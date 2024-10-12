@@ -62,7 +62,7 @@ sections:
         subtitle: Vote More Provincial Support
         image:
           type: ImageBlock
-          altText: Faux Fur Throw
+          altText: ''
           elementId: ''
           styles:
             self:
