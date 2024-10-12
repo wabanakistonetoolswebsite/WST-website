@@ -36,7 +36,7 @@ export default function GenericSection(props) {
                     /* handle vertical positioning of content on large screens if it's a two col layout */
                     hasMedia && hasTextContent && hasXDirection ? mapAlignItemsStyles(alignItems) : undefined,
                     'gap-x-6',
-                    'gap-y-12'
+                    'gap-y-6'
                 )}
             >
                 {hasMedia && (
