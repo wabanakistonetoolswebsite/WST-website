@@ -82,7 +82,7 @@ sections:
             borderRadius: none
             flexDirection: col
             justifyContent: center
-            borderColor: border-neutral
+            borderColor: border-light
       - type: FeaturedItem
         title: Vote Better Infrastructure
         subtitle: >-
