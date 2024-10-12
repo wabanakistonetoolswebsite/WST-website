@@ -58,7 +58,7 @@ sections:
   - type: FeaturedItemsSection
     items:
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: Vote More Provincial Support
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
