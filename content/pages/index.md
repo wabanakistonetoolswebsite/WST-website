@@ -325,7 +325,7 @@ sections:
     type: GenericSection
     actions:
       - type: Button
-        label: Get started
+        label: Have Your Voice Heard
         altText: ''
         url: /
         showIcon: false
