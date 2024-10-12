@@ -55,7 +55,7 @@ export default function GenericSection(props) {
                         )}
                         {subtitle && (
                             <p
-                                className={classNames('text-lg', 'sm:text-2xl', styles?.subtitle ? mapStyles(styles?.subtitle) : undefined, {
+                                className={classNames('text-lg', styles?.subtitle ? mapStyles(styles?.subtitle) : undefined, {
                                     'mt-4': badge?.label || title?.text
                                 })}
                                 {...(enableAnnotations && { 'data-sb-field-path': '.subtitle' })}
@@ -66,7 +66,7 @@ export default function GenericSection(props) {
                         {text && (
                             <Markdown
                                 options={{ forceBlock: true, forceWrapper: true }}
-                                className={classNames('sb-markdown', 'sm:text-lg', styles?.text ? mapStyles(styles?.text) : undefined, {
+                                className={classNames('sb-markdown', styles?.text ? mapStyles(styles?.text) : undefined, {
                                     'mt-6': badge?.label || title?.text || subtitle
                                 })}
                                 {...(enableAnnotations && { 'data-sb-field-path': '.text' })}
