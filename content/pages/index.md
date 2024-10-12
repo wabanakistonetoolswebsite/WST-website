@@ -132,7 +132,7 @@ sections:
           - pl-8
           - pb-8
           - pr-8
-        justifyContent: flex-end
+        justifyContent: flex-start
       subtitle:
         textAlign: center
   - type: FeaturedItemsSection
