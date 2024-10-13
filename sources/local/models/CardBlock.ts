@@ -1,6 +1,6 @@
 import { Model } from '@stackbit/types';
 
-export const FeaturedItem: Model = {
+export const CardBlock: Model = {
     type: 'object',
     name: 'CardBlock',
     label: 'Card Block',
