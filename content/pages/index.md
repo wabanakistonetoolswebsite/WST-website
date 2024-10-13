@@ -85,7 +85,7 @@ sections:
             borderWidth: 0
             borderStyle: none
         text: >
-          ### ✔ Vote More Provincial Support
+          #### ✔ Vote More Provincial Support
 
 
           Fredericton has faced growing challenges, and our city should not be
