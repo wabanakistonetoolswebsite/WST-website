@@ -7,7 +7,7 @@ import Action from '../../atoms/Action';
 import ImageBlock from '../../blocks/ImageBlock';
 
 export default function CardBlock(props) {
-    const { elementId, title, tagline, subtitle, text, image, actions = [], colors = 'bg-light-fg-dark', styles = {}, hasSectionTitle } = props;
+    const { elementId, title, tagline, subtitle, text, image, actions = [], colors = 'bg-light-fg-dark', styles = {}, hasSectionTitle, ...rest } = props;
     const fieldPath = props['data-sb-field-path'];
     const TitleTag = hasSectionTitle ? 'h3' : 'h2';
     const flexDirection = styles?.self?.flexDirection ?? 'col';
@@ -34,6 +34,7 @@ export default function CardBlock(props) {
                 'overflow-hidden'
             )}
             data-sb-field-path={fieldPath}
+            {...rest}
         >
             <div className={classNames('w-full', 'flex', mapFlexDirectionStyles(flexDirection, hasTextContent, hasImage), 'gap-6')}>
                 {hasImage && (
