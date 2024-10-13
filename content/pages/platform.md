@@ -58,7 +58,7 @@ sections:
         textAlign: left
     backgroundImage:
       type: BackgroundImage
-      altText: altText of the image
+      altText: Fredericton City Hall Photo by Robert Gray
       backgroundSize: cover
       backgroundPosition: bottom
       backgroundRepeat: no-repeat
