@@ -87,8 +87,32 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      ### Councillor Wage Control
+
+
+
+      The recent decision by Fredericton's councillors and mayor to approve a
+      pay raise for themselves (34% increase) is concerning to me. I share
+      Councillor Hicks' sentiment that this was not the appropriate time or
+      manner to address such a matter. I believe there should be a structured
+      system in place to regulate the wages of councillors and the mayor. In a
+      gesture of goodwill, I am committed to addressing this issue and hopefully
+      even reverse the decision until a more appropriate time or until a
+      structured system is in place.
+
+
+      ### Investing in Growth
+
+
+
+      I advocate for directing additional spending towards growth initiatives
+      aimed at enhancing the prosperity and wealth of the city. Funds generated
+      from these successful endeavors should then be allocated to various
+      projects, ensuring a continuous focus on growth in our budgetary
+      allocations. This approach enables us to afford luxuries that may
+      otherwise be beyond our reach compared to other cities. Additionally,
+      there should be a mandate to set aside a portion of funds as a contingency
+      reserve for unforeseeable emergencies.
     actions:
       - type: Button
         label: Get started
