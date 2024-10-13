@@ -83,21 +83,39 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Responsible Budget and Investing in Growth
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: ''
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      ### Councillor Wage Control
+
+
+
+      The recent decision by Fredericton's councillors and mayor to approve a
+      pay raise for themselves (34% increase) is concerning to me. I share
+      Councillor Hicks' sentiment that this was not the appropriate time or
+      manner to address such a matter. I believe there should be a structured
+      system in place to regulate the wages of councillors and the mayor. In a
+      gesture of goodwill, I am committed to addressing this issue and hopefully
+      even reverse the decision until a more appropriate time or until a
+      structured system is in place.
+
+
+      ### Investing in Growth
+
+
+
+      I advocate for directing additional spending towards growth initiatives
+      aimed at enhancing the prosperity and wealth of the city. Funds generated
+      from these successful endeavors should then be allocated to various
+      projects, ensuring a continuous focus on growth in our budgetary
+      allocations. This approach enables us to afford luxuries that may
+      otherwise be beyond our reach compared to other cities. Additionally,
+      there should be a mandate to set aside a portion of funds as a contingency
+      reserve for unforeseeable emergencies.
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
-        label: See Tutorials
+        label: Read Fredericton Municipal Budget
         url: /
         showIcon: true
         icon: arrowRight
@@ -105,125 +123,46 @@ sections:
         style: primary
     badge:
       type: Badge
-      label: This is a badge
+      label: Vote to help
       color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
-  - title:
-      text: Flexible Pricing
-      color: text-dark
+    media:
+      type: CardBlock
+      title: Feature Item One
+      tagline: This is the tagline
+      subtitle: This is the item subtitle
+      text: |
+        Follow the tutorial to build your first Netlify Create site.
+      image:
+        type: ImageBlock
+        url: /images/abstract-feature1.svg
+        altText: Placeholder text
+        styles:
+          self:
+            borderRadius: x-large
+      actions:
+        - type: Link
+          label: See Tutorials
+          altText: ''
+          url: /
+          showIcon: false
+          icon: arrowRight
+          iconPosition: right
+          style: primary
+          elementId: ''
+      colors: bg-light-fg-dark
       styles:
         self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
-    plans:
-      - title: Developers
-        price: Free
-        details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Pricing plan 1
-          type: ImageBlock
-        actions:
-          - label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            type: Button
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-        type: PricingPlan
-      - title: Professional
-        price: $99
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-        image:
-          url: /images/abstract-feature2.svg
-          altText: Pricing plan 2
-          type: ImageBlock
-        actions:
-          - label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            type: Button
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-        type: PricingPlan
-      - title: Enterprise
-        price: Custom
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-          - Feature five
-        image:
-          url: /images/abstract-feature3.svg
-          altText: Pricing plan 3
-          type: ImageBlock
-        actions:
-          - label: Contact us
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            type: Button
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-        type: PricingPlan
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: PricingSection
+          padding:
+            - pt-8
+            - pl-8
+            - pb-8
+            - pr-8
+          borderRadius: x-large
+          flexDirection: col
 seo:
   metaTitle: Pricing - Demo site
   metaDescription: This is the pricing page built with Netlify Create.
