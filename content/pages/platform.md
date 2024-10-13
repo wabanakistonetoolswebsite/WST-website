@@ -115,7 +115,7 @@ sections:
       reserve for unforeseeable emergencies.
     actions:
       - type: Link
-        label: See Tutorials
+        label: Read Fredericton Municipal Budget
         url: /
         showIcon: true
         icon: arrowRight
