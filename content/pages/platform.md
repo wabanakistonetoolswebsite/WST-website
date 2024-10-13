@@ -12,15 +12,15 @@ sections:
           fontWeight: 700
     subtitle: for Ward 5 Fredericton City Council.
     text: >
-      I will be visiting door to door throughout 2024 to learn about your needs
-      and desires for Marysville and Fredericton in general. This will help me
-      to focus on what matters most to you. I intend to follow up in 2025 and
-      2026 with additional outreach and surveys to make sure I am on track and
-      stay aligned with community needs.
+      **I will be visiting door to door throughout 2024 to learn about your
+      needs and desires for Marysville and Fredericton in general. This will
+      help me to focus on what matters most to you. I intend to follow up in
+      2025 and 2026 with additional outreach and surveys to make sure I am on
+      track and stay aligned with community needs.**
 
 
-      If elected, I will continue to listen and stay on course to support all of
-      Ward 5 and Fredericton.
+      **If elected, I will continue to listen and stay on course to support all
+      of Ward 5 and Fredericton.**
     actions:
       - type: Button
         label: Schedule a Meeting
@@ -132,7 +132,7 @@ sections:
     media:
       type: CardBlock
       title: Feature Item One
-      tagline: ''
+      tagline: This is the tagline
       subtitle: This is the item subtitle
       text: |
         Follow the tutorial to build your first Netlify Create site.
@@ -143,16 +143,7 @@ sections:
         styles:
           self:
             borderRadius: x-large
-      actions:
-        - type: Link
-          label: See Tutorials
-          altText: ''
-          url: /
-          showIcon: false
-          icon: arrowRight
-          iconPosition: right
-          style: primary
-          elementId: ''
+      actions: []
       colors: bg-light-fg-dark
       styles:
         self:
