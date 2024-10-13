@@ -1,26 +1,37 @@
 import { Model } from '@stackbit/types';
 
-export const GenericSection: Model = {
+export const CardBlock: Model = {
     type: 'object',
-    name: 'GenericSection',
-    label: 'Section',
-    labelField: 'title.text',
+    name: 'CardBlock',
+    label: 'Card Block',
+    labelField: 'title',
     fields: [
         {
-            type: 'model',
+            type: 'string',
             name: 'title',
             label: 'Title',
-            required: false,
+            required: true,
+            default: 'This Is The Item Title',
             hidden: false,
-            localized: false,
-            models: ['TitleBlock']
+            localized: false
+        },
+        {
+            type: 'string',
+            name: 'tagline',
+            label: 'Tagline',
+            description:
+                'A small short text above the title. Also used as a tab title in the tab navigation arrangement of carousel section.',
+            required: false,
+            default: 'This is the tagline',
+            hidden: false,
+            localized: false
         },
         {
             type: 'string',
             name: 'subtitle',
             label: 'Subtitle',
             required: false,
-            default: 'This is a subtitle',
+            default: 'This is the item subtitle',
             hidden: false,
             localized: false
         },
@@ -30,9 +41,18 @@ export const GenericSection: Model = {
             label: 'Text',
             required: false,
             default:
-                'Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.\nAenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet\nerat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat\nvitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.',
+                'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae. explicabo.',
             hidden: false,
             localized: false
+        },
+        {
+            type: 'model',
+            name: 'image',
+            label: 'Image',
+            required: false,
+            hidden: false,
+            localized: false,
+            models: ['ImageBlock']
         },
         {
             type: 'list',
@@ -47,30 +67,11 @@ export const GenericSection: Model = {
             }
         },
         {
-            type: 'model',
-            name: 'media',
-            label: 'Media',
-            required: false,
-            hidden: false,
-            localized: false,
-            models: ['FormBlock', 'ImageBlock', 'VideoBlock','CardBlock']
-        },
-        {
-            type: 'model',
-            name: 'badge',
-            label: 'Badge',
-            required: false,
-            hidden: false,
-            localized: false,
-            models: ['Badge']
-        },
-        {
             type: 'string',
             name: 'elementId',
             label: 'Element ID',
             description: 'The unique ID for an HTML element, must not contain whitespace',
             required: false,
-            default: '',
             hidden: false,
             localized: false,
             group: 'settings'
@@ -79,7 +80,6 @@ export const GenericSection: Model = {
             type: 'enum',
             name: 'colors',
             label: 'Colors',
-            description: 'The color theme of the section',
             required: false,
             default: 'bg-light-fg-dark',
             hidden: false,
@@ -100,6 +100,13 @@ export const GenericSection: Model = {
                     borderColor: '#ececec'
                 },
                 {
+                    label: 'Neutral alt background, dark foreground',
+                    value: 'bg-neutralAlt-fg-dark',
+                    textColor: '$dark',
+                    backgroundColor: '$neutralAlt',
+                    borderColor: '#ececec'
+                },
+                {
                     label: 'Dark background, light foreground',
                     value: 'bg-dark-fg-light',
                     textColor: '$light',
@@ -107,18 +114,8 @@ export const GenericSection: Model = {
                     borderColor: '#ececec'
                 }
             ],
-            group: 'styles',
+            group: 'cardStyles',
             controlType: 'palette'
-        },
-        {
-            type: 'model',
-            name: 'backgroundImage',
-            label: 'Background image',
-            required: false,
-            hidden: false,
-            localized: false,
-            models: ['BackgroundImage'],
-            group: 'styles'
         },
         {
             type: 'style',
@@ -133,26 +130,46 @@ export const GenericSection: Model = {
                     margin: ['tw0:96'],
                     padding: ['tw0:96'],
                     flexDirection: '*',
-                    alignItems: ['flex-start', 'flex-end', 'center'],
-                    justifyContent: ['flex-start', 'flex-end', 'center']
-                },
-                subtitle: {
-                    fontStyle: '*',
-                    fontWeight: ['400', '500', '700'],
-                    textDecoration: '*',
-                    textAlign: '*'
-                },
-                text: {
+                    justifyContent: ['flex-start', 'flex-end', 'center'],
+                    borderWidth: ['0:2', '4:8:4'],
+                    borderStyle: '*',
+                    borderColor: [
+                        {
+                            value: 'border-dark',
+                            label: 'Dark',
+                            color: '$dark'
+                        },
+                        {
+                            value: 'border-light',
+                            label: 'Light',
+                            color: '$light'
+                        },
+                        {
+                            value: 'border-neutral',
+                            label: 'Neutral',
+                            color: '$neutral'
+                        },
+                        {
+                            value: 'border-neutralAlt',
+                            label: 'Neutral alt',
+                            color: '$neutralAlt'
+                        },
+                        {
+                            value: 'border-primary',
+                            label: 'Primary',
+                            color: '$primary'
+                        }
+                    ],
+                    borderRadius: '*',
                     textAlign: '*'
                 }
             }
         }
     ],
-    thumbnail: 'https://assets.stackbit.com/components/models/thumbnails/default.png',
     fieldGroups: [
         {
-            name: 'styles',
-            label: 'Styles',
+            name: 'cardStyles',
+            label: 'Card styles',
             icon: 'palette'
         },
         {

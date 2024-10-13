@@ -42,6 +42,7 @@ import { VideoBlock } from './VideoBlock';
 import { MetaTag } from './MetaTag';
 import { FooterLinksGroup } from './FooterLinksGroup';
 import { Seo } from './Seo';
+import { CardBlock } from './CardBlock';
 
 export const allModels = {
     BackgroundImage,
@@ -58,6 +59,7 @@ export const allModels = {
     FeaturedPostsSection,
     Footer,
     FormBlock,
+    CardBlock,
     GenericSection,
     Header,
     ImageBlock,
