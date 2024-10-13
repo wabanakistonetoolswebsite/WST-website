@@ -42,9 +42,9 @@ export default function GenericSection(props) {
                 {hasMedia && (
                     <div
                         className={classNames('w-full', 'flex', mapStyles({ justifyContent: styles?.self?.justifyContent ?? 'flex-start' }), {
-                            'max-w-sectionBody': media.__metadata.modelName === 'FormBlock',
+                            'max-w-sectionBody': media.__metadata.modelName === 'FormBlock' || media.__metadata.modelName === 'CardBlock',
                             'md:w-[57.5%] lg:shrink-0': hasTextContent && hasXDirection,
-                            'md:mt-10': badge?.label && media.__metadata.modelName === 'FormBlock' && hasXDirection
+                            'md:mt-10': badge?.label && (media.__metadata.modelName === 'FormBlock' || media.__metadata.modelName === 'CardBlock') && hasXDirection
                         })}
                     >
                         <Media media={media} hasAnnotations={enableAnnotations} />
