@@ -83,7 +83,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Responsible Budget and Investing in Growth
       color: text-dark
     subtitle: Increase your reach
     text: >
