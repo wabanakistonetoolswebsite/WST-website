@@ -64,6 +64,53 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 41
       url: /images/TownHall.png
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Homelessness
+      color: text-dark
+    subtitle: ''
+    text: "Currently, there are approximately\_**150**\_individuals experiencing homelessness in Fredericton. My approach to addressing this issue involves several key strategies:\n\n*   Not charging property tax on shelters and properties used to serve our homeless.\n\n*   Collaborating closely with non-profit organizations to enhance the support services available to the homeless population.\n\n*   Facilitating employment opportunities for the homeless, fostering their integration as productive members of our community.\n\n*   Partnering with the provincial government to enhance housing and healthcare services tailored to the needs of the homeless.\n\n*   Streamlining shelter operations to prioritize emergency overflow situations, ensuring efficient utilization of resources.\n\n*   Aligning our efforts with the policies and initiatives of both federal and provincial authorities.\n\n*   Promoting greater understanding and empathy within the community towards homelessness, fostering a supportive environment for individuals seeking assistance and rehabilitation.\n\n"
+    actions: []
+    badge:
+      type: Badge
+      label: Vote to help
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Social Media Management
+      color: text-dark
+    subtitle: Increase your reach
+    text: >
+      A service that helps businesses to manage their social media accounts and
+      posts.
+    actions:
+      - type: Button
+        label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+      - type: Link
+        label: See Tutorials
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
   - title:
       text: Flexible Pricing
       color: text-dark
