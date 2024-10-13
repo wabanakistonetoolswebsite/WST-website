@@ -2,6 +2,68 @@
 title: Platform
 slug: platform
 sections:
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: My Platform
+      color: text-dark
+      styles:
+        self:
+          fontWeight: 700
+    subtitle: for Ward 5 Fredericton City Council.
+    text: >
+      I will be visiting door to door throughout 2024 to learn about your needs
+      and desires for Marysville and Fredericton in general. This will help me
+      to focus on what matters most to you. I intend to follow up in 2025 and
+      2026 with additional outreach and surveys to make sure I am on track and
+      stay aligned with community needs.
+
+
+      If elected, I will continue to listen and stay on course to support all of
+      Ward 5 and Fredericton.
+    actions:
+      - type: Button
+        label: Schedule a Meeting
+        altText: ''
+        url: 'https://calendly.com/jacobcloutier/30min'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Link
+        label: Feedback Survey
+        altText: 'Ward 5: Marysville Feedback Survey'
+        url: >-
+          https://docs.google.com/forms/d/e/1FAIpQLScpOHV8b15clE_aoBj7Jo_BqqpUWUu49Uhgg27mJFD16yPQOw/viewform
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+        padding:
+          - pt-9
+          - pl-6
+          - pb-9
+          - pr-6
+      subtitle:
+        fontWeight: 700
+      text:
+        textAlign: left
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: cover
+      backgroundPosition: bottom
+      backgroundRepeat: no-repeat
+      opacity: 41
+      url: /images/TownHall.png
   - title:
       text: Flexible Pricing
       color: text-dark
