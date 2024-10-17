@@ -129,7 +129,7 @@ sections:
     styles:
       self:
         alignItems: center
-        flexDirection: ''
+        flexDirection: row
     media:
       type: CardBlock
       title: Feature Item One
