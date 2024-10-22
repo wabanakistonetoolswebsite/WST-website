@@ -20,8 +20,6 @@ export default function CardBlock(props) {
             className={classNames(
                 'sb-card',
                 colors,
-                styles?.self?.margin ? mapStyles({ margin: styles?.self?.margin }) : undefined,
-                styles?.self?.padding ? mapStyles({ padding: styles?.self?.padding }) : undefined,
                 styles?.self?.borderWidth && styles?.self?.borderWidth !== 0 && styles?.self?.borderStyle !== 'none'
                     ? mapStyles({
                           borderWidth: styles?.self?.borderWidth,
@@ -36,7 +34,7 @@ export default function CardBlock(props) {
             data-sb-field-path={fieldPath}
             {...rest}
         >
-            <div className={classNames('w-full', 'flex', mapFlexDirectionStyles(flexDirection, hasTextContent, hasImage), 'gap-6')}>
+            <div className={classNames('w-full', "rounded-none" , 'flex', mapFlexDirectionStyles(flexDirection, hasTextContent, hasImage), 'gap-6')}>
                 {hasImage && (
                     <ImageBlock
                         {...image}
@@ -48,7 +46,9 @@ export default function CardBlock(props) {
                 )}
                 {hasTextContent && (
                     <div
-                        className={classNames('w-full', {
+                        className={classNames('w-full',
+                            styles?.self?.margin ? mapStyles({ margin: styles?.self?.margin }) : undefined,
+                            styles?.self?.padding ? mapStyles({ padding: styles?.self?.padding }) : undefined, {
                             'xs:grow': hasImage && (flexDirection === 'row' || flexDirection === 'row-reversed')
                         })}
                     >
