@@ -42,8 +42,9 @@ export default function GenericSection(props) {
                 {hasMedia && (
                     <div
                         className={classNames('w-full', 'flex', mapStyles({ justifyContent: styles?.self?.justifyContent ?? 'flex-start' }), {
-                            'max-w-sectionBody': media.__metadata.modelName === 'FormBlock' ,
-                            'md:w-[57.5%] lg:shrink-0': hasTextContent && hasXDirection,
+                            'max-w-sectionBody': media.__metadata.modelName === 'FormBlock',
+                            'md:max-w-[27.5rem] lg:shrink-0': media.__metadata.modelName === 'CardBlock',
+                            'md:w-[57.5%] lg:shrink-0': hasTextContent && hasXDirection && !(media.__metadata.modelName === 'CardBlock' ),
                             'md:mt-10': badge?.label && (media.__metadata.modelName === 'FormBlock' ) && hasXDirection
                         })}
                     >
@@ -53,7 +54,8 @@ export default function GenericSection(props) {
                 {hasTextContent && (
                     <div
                         className={classNames('w-full', 'max-w-sectionBody', 'p-4' , {
-                            'md:max-w-[27.5rem]': hasMedia && hasXDirection
+                            'md:max-w-[27.5rem]': hasMedia && hasXDirection && !(media.__metadata.modelName === 'CardBlock' ),
+                            'md:max-w-[57.5%]': media.__metadata.modelName === 'CardBlock',
                         })}
                     >
                         {badge && <Badge {...badge} {...(enableAnnotations && { 'data-sb-field-path': '.badge' })} />}
