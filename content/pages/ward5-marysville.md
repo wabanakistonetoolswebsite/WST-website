@@ -153,7 +153,7 @@ sections:
     actions:
       - type: Button
         label: Have Your Voice Heard
-        altText: ''
+        altText: Feedback Survey
         url: >-
           https://docs.google.com/forms/d/e/1FAIpQLScpOHV8b15clE_aoBj7Jo_BqqpUWUu49Uhgg27mJFD16yPQOw/viewform
         showIcon: false
