@@ -2,119 +2,70 @@
 type: PageLayout
 title: Contact
 sections:
-  - type: PricingSection
+  - type: GenericSection
     title:
       type: TitleBlock
-      text: Flexible Pricing
+      text: Contact
       color: text-dark
       styles:
         self:
-          textAlign: center
-    subtitle: This is the subtitle for the pricing section
-    plans:
-      - type: PricingPlan
-        title: Developers
-        price: Free
-        details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Pricing plan 1
-        actions:
-          - type: Button
-            label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-      - type: PricingPlan
-        title: Professional
-        price: $99
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature2.svg
-          altText: Pricing plan 2
-        actions:
-          - type: Button
-            label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-      - type: PricingPlan
-        title: Enterprise
-        price: Custom
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-          - Feature five
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature3.svg
-          altText: Pricing plan 3
-        actions:
-          - type: Button
-            label: Contact us
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-    colors: bg-light-fg-dark
+          fontWeight: 700
+    subtitle: ''
+    text: >+
+      Please feel free to reach out to me via the information provided below.
+      You can also schedule a meeting with me via the link below, or fill out a
+      survey to communicate what you need from the councillor of ward 5.
+
+    actions:
+      - type: Link
+        label: +1 (506) 260-3529
+        altText: Call Jacob Cloutier
+        url: 'tel:1-506-260-3529'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Link
+        label: jwkcloutier@hotmail.com
+        altText: Email Jacob Cloutier
+        url: 'mailto:jwkcloutier@hotmail.com'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Link
+        altText: Facebook
+        url: 'https://www.facebook.com/jacob.cloutier.92'
+        showIcon: true
+        icon: facebook
+        iconPosition: left
+        style: secondary
+        elementId: ''
+      - type: Link
+        altText: LinkedIn
+        url: 'https://www.linkedin.com/in/jacob-cloutier-503476267/'
+        showIcon: true
+        icon: linkedin
+        iconPosition: left
+        style: secondary
+        elementId: ''
+    elementId: ''
+    colors: bg-neutral-fg-dark
     styles:
       self:
-        justifyContent: center
+        alignItems: center
+        flexDirection: row-reverse
+        padding:
+          - pt-9
+          - pl-6
+          - pb-9
+          - pr-6
       subtitle:
-        textAlign: center
+        fontWeight: 700
+      text:
+        textAlign: left
 slug: contact
 seo:
   type: Seo

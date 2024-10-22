@@ -50,21 +50,12 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
-        },
-        {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
         }
     ],
     "secondaryLinks": [
         {
             "label": "Meet With Me",
-            "url": "/",
+            "url": "https://calendly.com/jacobcloutier/30min",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
