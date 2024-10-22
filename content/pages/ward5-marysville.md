@@ -150,7 +150,17 @@ sections:
       Your voice matters! Fill out this short survey to share your concerns and
       ideas for improving our community. Your feedback will help shape policies
       that reflect our residents' needs. Together, we can build a better future!
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: >-
+          https://docs.google.com/forms/d/e/1FAIpQLScpOHV8b15clE_aoBj7Jo_BqqpUWUu49Uhgg27mJFD16yPQOw/viewform
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     elementId: ''
     colors: bg-neutral-fg-dark
     styles:
