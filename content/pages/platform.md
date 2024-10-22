@@ -348,7 +348,7 @@ sections:
           altText: ''
           url: >-
             https://nbmediacoop.org/2023/02/23/commentary-snow-way-snow-how-how-fredericton-refuses-to-make-winter-sidewalks-accessible/
-          showIcon: false
+          showIcon: true
           icon: arrowRight
           iconPosition: right
           style: secondary
