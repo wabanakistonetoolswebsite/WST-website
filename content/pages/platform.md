@@ -327,7 +327,9 @@ sections:
         alignItems: center
     media:
       type: CardBlock
-      title: Feature Item One
+      title: >-
+        Snow way, snow how? How Fredericton refuses to make winter sidewalks
+        accessible
       tagline: ''
       subtitle: ''
       text: >
