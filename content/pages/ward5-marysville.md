@@ -46,7 +46,7 @@ sections:
           - pt-9
           - pl-6
           - pb-9
-          - pr-9
+          - pr-6
       subtitle:
         fontWeight: 700
       text:
