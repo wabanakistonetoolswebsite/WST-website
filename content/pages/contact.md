@@ -36,6 +36,15 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+      - type: Link
+        label: See Tutorials
+        altText: ''
+        url: 'tel:1-506-260-3529'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     elementId: ''
     colors: bg-neutral-fg-dark
     styles:
