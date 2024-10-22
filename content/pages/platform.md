@@ -424,7 +424,7 @@ sections:
         flexDirection: row-reverse
     media:
       type: CardBlock
-      title: Feature Item One
+      title: Engage Fredericton is our City's new public engagement platform.
       tagline: ''
       subtitle: This is the item subtitle
       text: |
