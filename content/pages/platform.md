@@ -266,7 +266,7 @@ sections:
             borderRadius: x-large
       actions:
         - type: Button
-          label: Get started
+          label: Read More
           altText: ''
           url: >-
             https://www.cbc.ca/news/canada/new-brunswick/auditor-general-housing-new-brunswick-1.7223805
