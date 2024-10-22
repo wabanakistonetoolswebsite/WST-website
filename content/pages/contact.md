@@ -37,7 +37,7 @@ sections:
         style: primary
         elementId: ''
       - type: Link
-        label: See Tutorials
+        label: +1 (506) 260-3529
         altText: ''
         url: 'tel:1-506-260-3529'
         showIcon: false
