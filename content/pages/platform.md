@@ -85,6 +85,9 @@ sections:
       type: TitleBlock
       text: Responsible Budget and Investing in Growth
       color: text-dark
+      styles:
+        self:
+          fontWeight: 700
     subtitle: ''
     text: >
       ### Councillor Wage Control
