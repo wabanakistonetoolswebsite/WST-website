@@ -291,7 +291,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Provincal Accountability
       color: text-dark
     subtitle: ''
     text: >
