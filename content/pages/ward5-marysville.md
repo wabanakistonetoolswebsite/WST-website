@@ -139,7 +139,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Jacob Cloutier
+      text: Community Concerns Survey
       color: text-dark
       styles:
         self:
