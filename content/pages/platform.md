@@ -485,7 +485,7 @@ sections:
     styles:
       self:
         alignItems: center
-        justifyContent: flex-end
+        justifyContent: center
         flexDirection: row
 seo:
   metaTitle: Pricing - Demo site
