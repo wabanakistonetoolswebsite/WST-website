@@ -277,6 +277,7 @@ sections:
           flexDirection: col
           borderStyle: solid
           borderColor: border-neutral
+          borderWidth: 1
 seo:
   metaTitle: Pricing - Demo site
   metaDescription: This is the pricing page built with Netlify Create.
