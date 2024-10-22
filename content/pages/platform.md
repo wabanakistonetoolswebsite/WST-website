@@ -330,8 +330,9 @@ sections:
       title: Feature Item One
       tagline: ''
       subtitle: ''
-      text: |
-        Follow the tutorial to build your first Netlify Create site.
+      text: >
+        Winter snow removal is an issue every year and yet, somehow, the city of
+        Fredericton relegates sidewalks to the back burner...
       image:
         type: ImageBlock
         url: /images/abstract-feature1.svg
