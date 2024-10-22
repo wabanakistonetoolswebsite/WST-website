@@ -297,6 +297,9 @@ sections:
       type: TitleBlock
       text: Infrastructure Improvement
       color: text-dark
+      styles:
+        self:
+          fontWeight: 700
     subtitle: ''
     text: >
       ### Sidewalks
