@@ -463,7 +463,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Community Concerns Survey
       color: text-dark
     subtitle: ''
     text: >
