@@ -249,7 +249,9 @@ sections:
         flexDirection: row-reverse
     media:
       type: CardBlock
-      title: Feature Item One
+      title: >-
+        Transparency lacking in implementation of N.B. housing strategy, auditor
+        general says
       tagline: This is the tagline
       subtitle: This is the item subtitle
       text: |
