@@ -443,7 +443,7 @@ sections:
           label: Get started
           altText: ''
           url: 'https://engagefredericton.ca/'
-          showIcon: false
+          showIcon: true
           icon: arrowRight
           iconPosition: right
           style: secondary
