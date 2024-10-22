@@ -146,10 +146,12 @@ sections:
           fontWeight: 700
           textAlign: center
     subtitle: ''
-    text: >
-      Your voice matters! Fill out this short survey to share your concerns and
-      ideas for improving our community. Your feedback will help shape policies
-      that reflect our residents' needs. Together, we can build a better future!
+    text: >+
+      <div style="text-align: center">Your voice matters! Fill out this short
+      survey to share your concerns and ideas for improving our community. Your
+      feedback will help shape policies that reflect our residents' needs.
+      Together, we can build a better future!</div>
+
     actions:
       - type: Button
         label: Have Your Voice Heard
