@@ -242,12 +242,6 @@ sections:
       for them and the hard choices they need to make but they need to be
       reminded of their duty to their cities.
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
