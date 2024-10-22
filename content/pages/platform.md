@@ -132,30 +132,43 @@ sections:
         flexDirection: row-reverse
     media:
       type: CardBlock
-      title: Feature Item One
-      tagline: This is the tagline
-      subtitle: This is the item subtitle
-      text: |
-        Follow the tutorial to build your first Netlify Create site.
+      title: Fredericton councillors vote for pay raise
+      tagline: ''
+      subtitle: ''
+      text: >
+        Councillors' earnings will go from $26,000 a year to $35,000, an
+        increase of nearly 35 per cent...
       image:
         type: ImageBlock
-        url: /images/abstract-feature1.svg
+        url: /images/fredericton-city-hall.png
         altText: Placeholder text
         styles:
           self:
             borderRadius: x-large
-      actions: []
+      actions:
+        - type: Button
+          label: Read More
+          altText: ''
+          url: >-
+            https://www.cbc.ca/news/canada/new-brunswick/fredericton-city-hall-remuneration-1.6310576#:~:text=City%20councillors%20in%20Fredericton%20voted,near%2023%20per%20cent%20raise.
+          showIcon: true
+          icon: arrowRight
+          iconPosition: right
+          style: secondary
+          elementId: ''
       colors: bg-light-fg-dark
       styles:
         self:
           padding:
-            - pt-8
-            - pl-8
-            - pb-8
-            - pr-8
+            - pt-0
+            - pl-0
+            - pb-0
+            - pr-0
           borderRadius: x-large
           flexDirection: col
-          borderColor: border-light
+          borderColor: border-neutral
+          borderWidth: 1
+          borderStyle: solid
 seo:
   metaTitle: Pricing - Demo site
   metaDescription: This is the pricing page built with Netlify Create.
