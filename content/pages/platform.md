@@ -295,8 +295,37 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      ### Provincial Support
+
+
+      As May 2026 approaches I am preparing to run for Ward 5 city Council.
+      Change is needed as our city has faced growing challenges in social
+      programs such as welfare and housing, and we should not be left to
+      shoulder this burden alone. As your councillor, I’ll work to make the
+      province more accountable. We need better cooperation between city and
+      provincial authorities to address these pressing issues. Together, we will
+      advocate for a fairer distribution of resources and support for our
+      community.
+
+
+      ### Roads & bridges
+
+
+      The ongoing problems with several bridges and roads in recent years have
+      been a significant concern that requires urgent resolution. Many of these
+      issues seem to stem from provincial jurisdiction over these bridges and
+      roads. I believe it's time for Fredericton to negotiate with the province
+      to gain control over these infrastructures, allowing us to ensure their
+      proper maintenance and upkeep.
+
+
+      ### Provincial Respect
+
+
+      It may seem I do not have respect for our province and government
+      officials within the province but I really do have the greatest respect
+      for them and the hard choices they need to make but they need to be
+      reminded of their duty to their cities.
     actions: []
     colors: bg-light-fg-dark
     styles:
