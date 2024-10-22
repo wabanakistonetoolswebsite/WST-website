@@ -433,7 +433,7 @@ sections:
         projects below, and let your voice be heard!
       image:
         type: ImageBlock
-        url: /images/abstract-feature1.svg
+        url: /images/logo_resize_pjeg.png
         altText: Placeholder text
         styles:
           self:
