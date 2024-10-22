@@ -133,7 +133,7 @@ sections:
     media:
       type: CardBlock
       title: Fredericton councillors vote for pay raise
-      tagline: This is the tagline
+      tagline: ''
       subtitle: This is the item subtitle
       text: >
         Councillors' earnings will go from $26,000 a year to $35,000, an
