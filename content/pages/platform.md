@@ -491,6 +491,7 @@ sections:
     styles:
       self:
         alignItems: center
+        justifyContent: center
 seo:
   metaTitle: Pricing - Demo site
   metaDescription: This is the pricing page built with Netlify Create.
