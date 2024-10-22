@@ -12,9 +12,9 @@ sections:
           fontWeight: 700
     subtitle: ''
     text: >+
-      > My goal is to help Fredericton and Marysville grow in a meaningful,
-      sustainable way that has a positive impact not just for today but for
-      those coming tomorrow.
+      Please feel free to reach out to me via the information provided below.
+      You can also schedule a meeting with me via the link below, or fill out a
+      survey to communicate what you need from the councillor of ward 5.
 
     actions:
       - type: Button
