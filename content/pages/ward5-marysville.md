@@ -159,6 +159,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
+        altText: Feedback Survey
     colors: bg-neutral-fg-dark
     styles:
       self:
