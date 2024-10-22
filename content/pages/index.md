@@ -307,10 +307,12 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: >
-      Your voice matters! Fill out this short survey to share your concerns and
-      ideas for improving our community. Your feedback will help shape policies
-      that reflect our residents' needs. Together, we can build a better future!
+    text: >+
+      <div style="text-align: center">Your voice matters! Fill out this short
+      survey to share your concerns and ideas for improving our community. Your
+      feedback will help shape policies that reflect our residents' needs.
+      Together, we can build a better future!</div>
+
     badge:
       label: ''
       color: text-primary
