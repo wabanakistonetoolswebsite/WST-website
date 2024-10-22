@@ -170,11 +170,6 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-    media:
-      type: ImageBlock
-      url: /images/JakePortraitEdit.png
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
     elementId: ''
     colors: bg-neutral-fg-dark
     styles:
