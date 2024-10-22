@@ -152,7 +152,7 @@ sections:
       that reflect our residents' needs. Together, we can build a better future!
     actions:
       - type: Link
-        label: Feedback Survey
+        label: Have Your Voice Heard
         altText: Feedback survey
         url: >-
           https://docs.google.com/forms/d/e/1FAIpQLScpOHV8b15clE_aoBj7Jo_BqqpUWUu49Uhgg27mJFD16yPQOw/viewform
