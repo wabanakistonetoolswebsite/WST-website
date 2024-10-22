@@ -176,8 +176,32 @@ sections:
       color: text-dark
     subtitle: Increase your reach
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      ### The Right Business Ecosystem
+
+
+      Fredericton needs a more diverse Ecosystem for businesses and workers to
+      thrive and I plan to invest time in helping develop this area of
+      opportunity for Fredericton. Ignite, Planet Hatch, ACOA and ONB have done
+      an amazing job so far but there are still areas of opportunity for us to
+      do more and become better. This is going to come down to connecting with
+      all kinds of professionals, listening to input, and taking the best advice
+      that will align with our vision for a healthy ecosystem. I would like to
+      see Ignite better align with the goals of ONB and have them help fill gaps
+      that ONB has.
+
+
+      ### Workers Support
+
+
+      While I may not endorse all the outcomes associated with unions, I
+      consider myself a supporter. My previous career involved actively
+      participating in a union, including strikes and picketing alongside fellow
+      members of CUPE. Even after leaving, I continue to demonstrate my support
+      for those still affiliated with unions. My backing extends to hardworking
+      individuals striving for fair wages, decent benefits, and better working
+      conditions. I plan to ensure that city workers are treated fairly And get
+      what they deserve as well as anyone within our City I can support on this
+      object
     actions:
       - type: Button
         label: Get started
