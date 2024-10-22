@@ -465,6 +465,9 @@ sections:
       type: TitleBlock
       text: Community Concerns Survey
       color: text-dark
+      styles:
+        self:
+          textAlign: center
     subtitle: ''
     text: >
       Your voice matters! Fill out this short survey to share your concerns and
