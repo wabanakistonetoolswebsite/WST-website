@@ -155,7 +155,7 @@ sections:
             - pr-8
           borderRadius: x-large
           flexDirection: col
-          borderColor: border-dark
+          borderColor: border-neutral
           borderWidth: 1
           borderStyle: solid
 seo:
