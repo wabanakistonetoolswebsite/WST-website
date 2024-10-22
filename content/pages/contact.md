@@ -18,16 +18,6 @@ sections:
 
     actions:
       - type: Link
-        label: Feedback Survey
-        altText: 'Ward 5: Marysville Feedback Survey'
-        url: >-
-          https://docs.google.com/forms/d/e/1FAIpQLScpOHV8b15clE_aoBj7Jo_BqqpUWUu49Uhgg27mJFD16yPQOw/viewform
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-      - type: Link
         label: +1 (506) 260-3529
         altText: Call Jacob Cloutier
         url: 'tel:1-506-260-3529'
