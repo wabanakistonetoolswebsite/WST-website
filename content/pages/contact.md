@@ -26,6 +26,15 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+      - type: Link
+        label: See Tutorials
+        altText: ''
+        url: 'mailto:jwkcloutier@hotmail.com'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     elementId: ''
     colors: bg-neutral-fg-dark
     styles:
