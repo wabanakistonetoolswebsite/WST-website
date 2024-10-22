@@ -170,10 +170,6 @@ sections:
           borderWidth: 1
           borderStyle: solid
   - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Social Media Management
-      color: text-dark
     subtitle: ''
     text: >
       ### The Right Business Ecosystem
