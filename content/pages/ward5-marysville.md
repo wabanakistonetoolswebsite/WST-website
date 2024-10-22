@@ -151,15 +151,6 @@ sections:
       ideas for improving our community. Your feedback will help shape policies
       that reflect our residents' needs. Together, we can build a better future!
     actions:
-      - type: Button
-        label: Schedule a Meeting
-        altText: ''
-        url: 'https://calendly.com/jacobcloutier/30min'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
       - type: Link
         label: Feedback Survey
         altText: 'Ward 5: Marysville Feedback Survey'
