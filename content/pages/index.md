@@ -223,6 +223,7 @@ sections:
       styles:
         self:
           textAlign: left
+          fontWeight: 700
     subtitle: ''
     text: >
       I will be visiting door to door throughout 2024 to learn about your needs
