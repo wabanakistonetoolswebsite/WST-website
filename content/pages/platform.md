@@ -135,8 +135,9 @@ sections:
       title: Feature Item One
       tagline: This is the tagline
       subtitle: This is the item subtitle
-      text: |
-        Follow the tutorial to build your first Netlify Create site.
+      text: >
+        Councillors' earnings will go from $26,000 a year to $35,000, an
+        increase of nearly 35 per cent...
       image:
         type: ImageBlock
         url: /images/abstract-feature1.svg
