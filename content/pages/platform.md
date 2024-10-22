@@ -140,7 +140,7 @@ sections:
         increase of nearly 35 per cent...
       image:
         type: ImageBlock
-        url: /images/abstract-feature1.svg
+        url: /images/fredericton-city-hall.png
         altText: Placeholder text
         styles:
           self:
