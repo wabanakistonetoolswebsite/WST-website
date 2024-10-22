@@ -379,6 +379,9 @@ sections:
       type: TitleBlock
       text: Access to Information
       color: text-dark
+      styles:
+        self:
+          fontWeight: 700
     subtitle: ''
     text: >
       ### Community Information Sharing
