@@ -369,6 +369,7 @@ sections:
           flexDirection: col
           borderStyle: solid
           borderWidth: 1
+          borderColor: border-neutral
     badge:
       type: Badge
       label: Vote To Help
