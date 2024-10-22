@@ -43,10 +43,10 @@ sections:
         alignItems: center
         flexDirection: row-reverse
         padding:
-          - pt-0
-          - pl-0
-          - pb-0
-          - pr-0
+          - pt-9
+          - pl-9
+          - pb-9
+          - pr-9
       subtitle:
         fontWeight: 700
       text:
