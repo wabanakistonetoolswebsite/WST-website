@@ -132,7 +132,7 @@ sections:
         flexDirection: row-reverse
     media:
       type: CardBlock
-      title: Feature Item One
+      title: Fredericton councillors vote for pay raise
       tagline: This is the tagline
       subtitle: This is the item subtitle
       text: >
