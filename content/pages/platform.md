@@ -368,6 +368,7 @@ sections:
           borderRadius: x-large
           flexDirection: col
           borderStyle: solid
+          borderWidth: 1
     badge:
       type: Badge
       label: Vote To Help
