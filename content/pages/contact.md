@@ -43,6 +43,14 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
+      - type: Link
+        altText: LinkedIn
+        url: 'https://www.linkedin.com/in/jacob-cloutier-503476267/'
+        showIcon: true
+        icon: linkedin
+        iconPosition: left
+        style: secondary
+        elementId: ''
     elementId: ''
     colors: bg-neutral-fg-dark
     styles:
