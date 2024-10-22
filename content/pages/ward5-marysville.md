@@ -155,30 +155,17 @@ sections:
     actions:
       - type: Button
         label: Have Your Voice Heard
-        altText: Feedback Survey
         url: >-
           https://docs.google.com/forms/d/e/1FAIpQLScpOHV8b15clE_aoBj7Jo_BqqpUWUu49Uhgg27mJFD16yPQOw/viewform
-        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
-        elementId: ''
-    elementId: ''
+        altText: Feedback Survey
     colors: bg-neutral-fg-dark
     styles:
       self:
         alignItems: center
-        flexDirection: row-reverse
-        padding:
-          - pt-9
-          - pl-9
-          - pb-9
-          - pr-9
         justifyContent: center
-      subtitle:
-        fontWeight: 700
-      text:
-        textAlign: left
 seo:
   metaTitle: Careers - Demo site
   metaDescription: This is the careers page built with Netlify Create.
