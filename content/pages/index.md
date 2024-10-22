@@ -280,6 +280,9 @@ sections:
       type: TitleBlock
       text: About Jacob Cloutier
       color: text-dark
+      styles:
+        self:
+          fontWeight: 700
     subtitle: ''
     text: >
       Born and raised in Maryville, this is where my family calls home. My
