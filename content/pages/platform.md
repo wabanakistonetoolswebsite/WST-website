@@ -427,8 +427,10 @@ sections:
       title: Engage Fredericton is our City's new public engagement platform.
       tagline: ''
       subtitle: ''
-      text: |
-        Follow the tutorial to build your first Netlify Create site.
+      text: >
+        Welcome! Engage Fredericton is our City's new public engagement
+        platform. We want to hear what you have to say. Take a look at the
+        projects below, and let your voice be heard!
       image:
         type: ImageBlock
         url: /images/abstract-feature1.svg
