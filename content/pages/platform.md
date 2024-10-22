@@ -129,6 +129,7 @@ sections:
     styles:
       self:
         alignItems: center
+        flexDirection: row-reverse
     media:
       type: CardBlock
       title: Feature Item One
@@ -154,6 +155,7 @@ sections:
             - pr-8
           borderRadius: x-large
           flexDirection: col
+          borderColor: border-light
 seo:
   metaTitle: Pricing - Demo site
   metaDescription: This is the pricing page built with Netlify Create.
