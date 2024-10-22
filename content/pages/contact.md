@@ -38,7 +38,7 @@ sections:
         elementId: ''
       - type: Link
         label: +1 (506) 260-3529
-        altText: ''
+        altText: Call Jacob Cloutier
         url: 'tel:1-506-260-3529'
         showIcon: false
         icon: arrowRight
