@@ -27,7 +27,7 @@ sections:
         style: primary
         elementId: ''
       - type: Link
-        label: See Tutorials
+        label: jwkcloutier@hotmail.com
         altText: ''
         url: 'mailto:jwkcloutier@hotmail.com'
         showIcon: false
