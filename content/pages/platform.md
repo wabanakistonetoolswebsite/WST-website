@@ -242,9 +242,6 @@ sections:
       for them and the hard choices they need to make but they need to be
       reminded of their duty to their cities.
     actions: []
-    media:
-      type: ImageBlock
-      altText: Dope design preview
     colors: bg-light-fg-dark
     styles:
       self:
