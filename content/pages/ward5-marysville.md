@@ -159,7 +159,7 @@ sections:
           https://docs.google.com/forms/d/e/1FAIpQLScpOHV8b15clE_aoBj7Jo_BqqpUWUu49Uhgg27mJFD16yPQOw/viewform
         icon: arrowRight
         iconPosition: right
-        style: secondary
+        style: primary
         altText: Feedback Survey
     colors: bg-neutral-fg-dark
     styles:
