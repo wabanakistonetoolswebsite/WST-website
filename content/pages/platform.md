@@ -208,6 +208,9 @@ sections:
       type: TitleBlock
       text: Provincal Accountability
       color: text-dark
+      styles:
+        self:
+          fontWeight: 700
     subtitle: ''
     text: >
       ### Provincial Support
