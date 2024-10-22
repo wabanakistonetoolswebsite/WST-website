@@ -150,17 +150,7 @@ sections:
       Your voice matters! Fill out this short survey to share your concerns and
       ideas for improving our community. Your feedback will help shape policies
       that reflect our residents' needs. Together, we can build a better future!
-    actions:
-      - type: Link
-        label: Have Your Voice Heard
-        altText: Feedback survey
-        url: >-
-          https://docs.google.com/forms/d/e/1FAIpQLScpOHV8b15clE_aoBj7Jo_BqqpUWUu49Uhgg27mJFD16yPQOw/viewform
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     elementId: ''
     colors: bg-neutral-fg-dark
     styles:
