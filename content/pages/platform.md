@@ -337,7 +337,7 @@ sections:
         Fredericton relegates sidewalks to the back burner...
       image:
         type: ImageBlock
-        url: /images/abstract-feature1.svg
+        url: /images/snow-removal.png
         altText: Placeholder text
         styles:
           self:
