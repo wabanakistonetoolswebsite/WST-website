@@ -69,6 +69,9 @@ sections:
       type: TitleBlock
       text: Homelessness
       color: text-dark
+      styles:
+        self:
+          fontWeight: 700
     subtitle: ''
     text: "Currently, there are approximately\_**150**\_individuals experiencing homelessness in Fredericton. My approach to addressing this issue involves several key strategies:\n\n*   Not charging property tax on shelters and properties used to serve our homeless.\n\n*   Collaborating closely with non-profit organizations to enhance the support services available to the homeless population.\n\n*   Facilitating employment opportunities for the homeless, fostering their integration as productive members of our community.\n\n*   Partnering with the provincial government to enhance housing and healthcare services tailored to the needs of the homeless.\n\n*   Streamlining shelter operations to prioritize emergency overflow situations, ensuring efficient utilization of resources.\n\n*   Aligning our efforts with the policies and initiatives of both federal and provincial authorities.\n\n*   Promoting greater understanding and empathy within the community towards homelessness, fostering a supportive environment for individuals seeking assistance and rehabilitation.\n\n"
     actions: []
