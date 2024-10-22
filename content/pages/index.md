@@ -160,6 +160,9 @@ sections:
       type: TitleBlock
       text: My Commitment To Our Home
       color: text-dark
+      styles:
+        self:
+          fontWeight: 700
     subtitle: >-
       My name is Jacob Cloutier and I am running for the position of councilor
       for our beloved Marysville (Ward 5).
