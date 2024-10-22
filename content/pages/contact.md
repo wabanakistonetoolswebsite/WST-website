@@ -1,7 +1,61 @@
 ---
 type: PageLayout
 title: Contact
-sections: []
+sections:
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Jacob Cloutier
+      color: text-dark
+      styles:
+        self:
+          fontWeight: 700
+    subtitle: for Ward 5 Fredericton City Council.
+    text: >+
+      > My goal is to help Fredericton and Marysville grow in a meaningful,
+      sustainable way that has a positive impact not just for today but for
+      those coming tomorrow.
+
+    actions:
+      - type: Button
+        label: Schedule a Meeting
+        altText: ''
+        url: 'https://calendly.com/jacobcloutier/30min'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Link
+        label: Feedback Survey
+        altText: 'Ward 5: Marysville Feedback Survey'
+        url: >-
+          https://docs.google.com/forms/d/e/1FAIpQLScpOHV8b15clE_aoBj7Jo_BqqpUWUu49Uhgg27mJFD16yPQOw/viewform
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    media:
+      type: ImageBlock
+      url: /images/JakePortraitEdit.png
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+    elementId: ''
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+        padding:
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
+      subtitle:
+        fontWeight: 700
+      text:
+        textAlign: left
 slug: contact
 seo:
   type: Seo
