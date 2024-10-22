@@ -426,7 +426,7 @@ sections:
       type: CardBlock
       title: Engage Fredericton is our City's new public engagement platform.
       tagline: ''
-      subtitle: This is the item subtitle
+      subtitle: ''
       text: |
         Follow the tutorial to build your first Netlify Create site.
       image:
