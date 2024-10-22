@@ -159,7 +159,7 @@ sections:
         showIcon: true
         icon: arrowRight
         iconPosition: right
-        style: primary
+        style: secondary
         elementId: ''
     elementId: ''
     colors: bg-neutral-fg-dark
