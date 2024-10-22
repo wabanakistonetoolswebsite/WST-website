@@ -241,14 +241,7 @@ sections:
       officials within the province but I really do have the greatest respect
       for them and the hard choices they need to make but they need to be
       reminded of their duty to their cities.
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       altText: Dope design preview
