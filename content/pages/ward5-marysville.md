@@ -70,7 +70,7 @@ sections:
       an attractive place to live and work.
 
 
-      ## A Growing and Diverse Community
+      ### A Growing and Diverse Community
 
 
       In recent years, Marysville has experienced a population growth of 20%,
@@ -84,7 +84,7 @@ sections:
       our community.
 
 
-      ## Transportation and Connectivity
+      ### Transportation and Connectivity
 
 
       Transportation is also a critical issue for Marysville residents, with
@@ -94,7 +94,7 @@ sections:
       options and make commuting more convenient and affordable for everyone.
 
 
-      ## Affordable Housing Initiatives
+      ### Affordable Housing Initiatives
 
 
       One of my top priorities is addressing the growing need for affordable
@@ -105,7 +105,7 @@ sections:
       community for all income levels is a key focus of my platform.
 
 
-      ## Supporting Our Residents
+      ### Supporting Our Residents
 
 
       Marysville is a place where both homeowners and renters contribute to the
@@ -117,7 +117,7 @@ sections:
       to push for policies that support low-income households.
 
 
-      ## Looking to the Future
+      ### Looking to the Future
 
 
       As your representative, I am dedicated to ensuring that Marysville remains
