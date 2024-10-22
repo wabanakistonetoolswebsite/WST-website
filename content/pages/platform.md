@@ -381,8 +381,30 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      ### Community Information Sharing
+
+
+      I believe there's room for improvement in how Fredericton educates its
+      residents about city events and activities. Engage Fredericton is a
+      valuable resource, but the city hasn't effectively encouraged citizen
+      participation. People seek information conveniently, and unless we adapt
+      to deliver it when, how, and where they prefer, our engagement efforts
+      will fall short.
+
+
+      ### Wifi Access
+
+
+      As part of my commitment to enhancing connectivity and access to
+      information across our community, I would seek to expand the Fredericton
+      free Wi-Fi program to include Maryville. This initiative would bridge what
+      I see as a gap with the current service, ensuring that residents in all
+      parts of our city have equal access to online resources for education,
+      business, and communication. By expanding free Wi-Fi to Maryville, we will
+      support local businesses, increase access to essential services, and
+      create more opportunities for residents to engage with their community and
+      the broader world. This is a crucial step towards making Fredericton a
+      more connected and inclusive place.
     actions:
       - type: Button
         label: Get started
