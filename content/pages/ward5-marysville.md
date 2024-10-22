@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Jacob Cloutier
+      text: 'About Ward 5: Marysville'
       color: text-dark
       styles:
         self:
