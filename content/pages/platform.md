@@ -407,7 +407,7 @@ sections:
       more connected and inclusive place.
     actions:
       - type: Link
-        label: See Tutorials
+        label: Fredericton's Current Wifi Coverage
         url: /
         showIcon: true
         icon: arrowRight
