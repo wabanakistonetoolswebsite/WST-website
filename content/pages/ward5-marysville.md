@@ -154,7 +154,7 @@ sections:
 
     actions:
       - type: Button
-        label: Get started
+        label: Have Your Voice Heard
         url: /
         icon: arrowRight
         iconPosition: right
