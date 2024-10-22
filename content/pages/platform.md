@@ -472,7 +472,7 @@ sections:
       that reflect our residents' needs. Together, we can build a better future!
     actions:
       - type: Button
-        label: Get started
+        label: Have Your Voice Heard
         url: /
         icon: arrowRight
         iconPosition: right
