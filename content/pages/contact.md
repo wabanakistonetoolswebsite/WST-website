@@ -16,12 +16,6 @@ sections:
       You can also schedule a meeting with me via the link below, or fill out a
       survey to communicate what you need from the councillor of ward 5.
 
-
-      *   [+1 (506) 260-3529](tel:1-506-260-3529)
-
-
-      *   <jwkcloutier@hotmail.com>
-
     actions:
       - type: Button
         label: Schedule a Meeting
