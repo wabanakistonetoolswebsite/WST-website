@@ -128,12 +128,6 @@ sections:
       build a stronger, more inclusive Ward 5 that meets the needs of all its
       residents.
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
