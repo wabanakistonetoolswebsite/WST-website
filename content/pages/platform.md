@@ -253,7 +253,7 @@ sections:
         Transparency lacking in implementation of N.B. housing strategy, auditor
         general says
       tagline: This is the tagline
-      subtitle: This is the item subtitle
+      subtitle: ''
       text: >
         Paul Martin says completion timelines, specific costs missing from
         action items to create more housing
