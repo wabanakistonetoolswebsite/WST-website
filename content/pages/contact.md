@@ -35,6 +35,14 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+      - type: Link
+        altText: Facebook
+        url: 'https://www.facebook.com/jacob.cloutier.92'
+        showIcon: true
+        icon: facebook
+        iconPosition: left
+        style: secondary
+        elementId: ''
     elementId: ''
     colors: bg-neutral-fg-dark
     styles:
