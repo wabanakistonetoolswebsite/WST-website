@@ -413,9 +413,6 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-    media:
-      type: ImageBlock
-      altText: Dope design preview
     badge:
       type: Badge
       label: Vote To Help
