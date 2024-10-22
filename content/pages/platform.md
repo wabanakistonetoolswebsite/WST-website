@@ -69,6 +69,9 @@ sections:
       type: TitleBlock
       text: Homelessness
       color: text-dark
+      styles:
+        self:
+          fontWeight: 700
     subtitle: ''
     text: "Currently, there are approximately\_**150**\_individuals experiencing homelessness in Fredericton. My approach to addressing this issue involves several key strategies:\n\n*   Not charging property tax on shelters and properties used to serve our homeless.\n\n*   Collaborating closely with non-profit organizations to enhance the support services available to the homeless population.\n\n*   Facilitating employment opportunities for the homeless, fostering their integration as productive members of our community.\n\n*   Partnering with the provincial government to enhance housing and healthcare services tailored to the needs of the homeless.\n\n*   Streamlining shelter operations to prioritize emergency overflow situations, ensuring efficient utilization of resources.\n\n*   Aligning our efforts with the policies and initiatives of both federal and provincial authorities.\n\n*   Promoting greater understanding and empathy within the community towards homelessness, fostering a supportive environment for individuals seeking assistance and rehabilitation.\n\n"
     actions: []
@@ -85,6 +88,9 @@ sections:
       type: TitleBlock
       text: Responsible Budget and Investing in Growth
       color: text-dark
+      styles:
+        self:
+          fontWeight: 700
     subtitle: ''
     text: >
       ### Councillor Wage Control
@@ -208,6 +214,9 @@ sections:
       type: TitleBlock
       text: Provincal Accountability
       color: text-dark
+      styles:
+        self:
+          fontWeight: 700
     subtitle: ''
     text: >
       ### Provincial Support
@@ -297,6 +306,9 @@ sections:
       type: TitleBlock
       text: Infrastructure Improvement
       color: text-dark
+      styles:
+        self:
+          fontWeight: 700
     subtitle: ''
     text: >
       ### Sidewalks
@@ -379,6 +391,9 @@ sections:
       type: TitleBlock
       text: Access to Information
       color: text-dark
+      styles:
+        self:
+          fontWeight: 700
     subtitle: ''
     text: >
       ### Community Information Sharing
@@ -460,6 +475,39 @@ sections:
           flexDirection: col
           borderColor: border-neutral
           borderWidth: 1
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Community Concerns Survey
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+          fontWeight: 700
+    subtitle: ''
+    text: >+
+      <div style="text-align: center">Your voice matters! Fill out this short
+      survey to share your concerns and ideas for improving our community. Your
+      feedback will help shape policies that reflect our residents' needs.
+      Together, we can build a better future!</div>
+
+    actions:
+      - type: Button
+        label: Have Your Voice Heard
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
 seo:
   metaTitle: Pricing - Demo site
   metaDescription: This is the pricing page built with Netlify Create.
