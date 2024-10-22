@@ -468,6 +468,7 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 700
     subtitle: ''
     text: >+
       <div style="text-align: center">Your voice matters! Fill out this short
