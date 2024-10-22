@@ -17,15 +17,6 @@ sections:
       survey to communicate what you need from the councillor of ward 5.
 
     actions:
-      - type: Button
-        label: Schedule a Meeting
-        altText: ''
-        url: 'https://calendly.com/jacobcloutier/30min'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
       - type: Link
         label: Feedback Survey
         altText: 'Ward 5: Marysville Feedback Survey'
