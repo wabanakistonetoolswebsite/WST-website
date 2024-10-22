@@ -288,6 +288,10 @@ sections:
           borderStyle: solid
           borderColor: border-neutral
           borderWidth: 1
+    badge:
+      type: Badge
+      label: Vote To Help
+      color: text-primary
   - type: GenericSection
     title:
       type: TitleBlock
