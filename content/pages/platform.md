@@ -295,20 +295,23 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      ### Provincial Support
+      ### Sidewalks
 
 
-      As May 2026 approaches I am preparing to run for Ward 5 city Council.
-      Change is needed as our city has faced growing challenges in social
-      programs such as welfare and housing, and we should not be left to
-      shoulder this burden alone. As your councillor, I’ll work to make the
-      province more accountable. We need better cooperation between city and
-      provincial authorities to address these pressing issues. Together, we will
-      advocate for a fairer distribution of resources and support for our
-      community.
+      The City has struggled to prioritize addressing the glaring issue of our
+      sidewalks during the winter months. These pathways are relied upon by some
+      of our most vulnerable residents for travel, yet they often become
+      dangerous and impassable. If voted councillor, I am committed to
+      dedicating the necessary time and effort to tackle this issue head-on. I
+      have already engaged with engineers who believe there are simple and
+      cost-effective solutions available. They are prepared to draft these plans
+      for as little as $1000. I am determined to raise the funds required to
+      bring these plans to the city immediately, rather than delaying any
+      further. It's imperative that we take action now to address this problem
+      and ensure the safety and accessibility of our city for all residents.
 
 
-      ### Roads & bridges
+      ### Roads & Bridges
 
 
       The ongoing problems with several bridges and roads in recent years have
@@ -317,15 +320,6 @@ sections:
       roads. I believe it's time for Fredericton to negotiate with the province
       to gain control over these infrastructures, allowing us to ensure their
       proper maintenance and upkeep.
-
-
-      ### Provincial Respect
-
-
-      It may seem I do not have respect for our province and government
-      officials within the province but I really do have the greatest respect
-      for them and the hard choices they need to make but they need to be
-      reminded of their duty to their cities.
     actions: []
     colors: bg-light-fg-dark
     styles:
