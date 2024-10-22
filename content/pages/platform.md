@@ -406,12 +406,6 @@ sections:
       the broader world. This is a crucial step towards making Fredericton a
       more connected and inclusive place.
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
