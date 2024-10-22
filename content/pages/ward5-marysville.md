@@ -12,9 +12,11 @@ sections:
           fontWeight: 700
     subtitle: ''
     text: >+
-      > My goal is to help Fredericton and Marysville grow in a meaningful,
-      sustainable way that has a positive impact not just for today but for
-      those coming tomorrow.
+      As your candidate, I am committed to sharing important information and
+      addressing the needs of our growing community. I want to hear from you!
+      Please fill out the short survey or schedule a meeting using the buttons
+      below, so we can work together to make Marysville a better place for
+      everyone.
 
     actions:
       - type: Button
