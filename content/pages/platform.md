@@ -206,7 +206,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: ''
+      text: Provincal Accountability
       color: text-dark
     subtitle: Be in good company
     text: >
