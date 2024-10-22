@@ -181,6 +181,7 @@ sections:
           - pl-9
           - pb-9
           - pr-9
+        justifyContent: center
       subtitle:
         fontWeight: 700
       text:
