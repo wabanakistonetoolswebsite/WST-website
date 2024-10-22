@@ -270,7 +270,7 @@ sections:
           altText: ''
           url: >-
             https://www.cbc.ca/news/canada/new-brunswick/auditor-general-housing-new-brunswick-1.7223805
-          showIcon: false
+          showIcon: true
           icon: arrowRight
           iconPosition: right
           style: secondary
