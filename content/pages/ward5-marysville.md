@@ -146,11 +146,10 @@ sections:
           fontWeight: 700
           textAlign: center
     subtitle: ''
-    text: >+
-      > My goal is to help Fredericton and Marysville grow in a meaningful,
-      sustainable way that has a positive impact not just for today but for
-      those coming tomorrow.
-
+    text: >
+      Your voice matters! Fill out this short survey to share your concerns and
+      ideas for improving our community. Your feedback will help shape policies
+      that reflect our residents' needs. Together, we can build a better future!
     actions:
       - type: Button
         label: Schedule a Meeting
