@@ -291,7 +291,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Provincal Accountability
+      text: Infrastructure Improvement
       color: text-dark
     subtitle: ''
     text: >
