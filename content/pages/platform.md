@@ -198,13 +198,7 @@ sections:
       conditions. I plan to ensure that city workers are treated fairly And get
       what they deserve as well as anyone within our City I can support on this
       object
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
+    actions: []
     colors: bg-light-fg-dark
     styles:
       self:
