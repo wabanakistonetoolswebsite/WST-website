@@ -55,7 +55,7 @@ export default function GenericSection(props) {
                     <div
                         className={classNames('w-full', 'max-w-sectionBody', 'p-4' , {
                             'md:max-w-[27.5rem]': hasMedia && hasXDirection && !(media.__metadata.modelName === 'CardBlock' ),
-                            'md:max-w-[57.5%]': media.__metadata.modelName === 'CardBlock',
+                            'md:max-w-[57.5%]': media && media?.__metadata.modelName === 'CardBlock',
                         })}
                     >
                         {badge && <Badge {...badge} {...(enableAnnotations && { 'data-sb-field-path': '.badge' })} />}
