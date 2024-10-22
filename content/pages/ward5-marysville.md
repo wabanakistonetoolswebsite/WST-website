@@ -170,10 +170,10 @@ sections:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
+          - pt-7
+          - pl-7
+          - pb-7
+          - pr-7
         justifyContent: center
       subtitle:
         fontWeight: 700
