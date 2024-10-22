@@ -141,6 +141,9 @@ sections:
       type: TitleBlock
       text: Community Concerns Survey
       color: text-dark
+      styles:
+        self:
+          fontWeight: 700
     subtitle: ''
     text: >+
       <div style="text-align: center">Your voice matters! Fill out this short
