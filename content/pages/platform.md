@@ -440,7 +440,7 @@ sections:
             borderRadius: x-large
       actions:
         - type: Button
-          label: Get started
+          label: Read More
           altText: ''
           url: 'https://engagefredericton.ca/'
           showIcon: true
