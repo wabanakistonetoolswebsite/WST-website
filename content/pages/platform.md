@@ -150,7 +150,7 @@ sections:
           altText: ''
           url: >-
             https://www.cbc.ca/news/canada/new-brunswick/fredericton-city-hall-remuneration-1.6310576#:~:text=City%20councillors%20in%20Fredericton%20voted,near%2023%20per%20cent%20raise.
-          showIcon: false
+          showIcon: true
           icon: arrowRight
           iconPosition: right
           style: secondary
