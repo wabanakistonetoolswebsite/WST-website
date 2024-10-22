@@ -127,14 +127,7 @@ sections:
       transportation, housing affordability, and digital connectivity, we can
       build a stronger, more inclusive Ward 5 that meets the needs of all its
       residents.
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     badge:
       type: Badge
       label: ''
