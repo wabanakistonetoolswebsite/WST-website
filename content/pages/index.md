@@ -160,6 +160,9 @@ sections:
       type: TitleBlock
       text: My Commitment To Our Home
       color: text-dark
+      styles:
+        self:
+          fontWeight: 700
     subtitle: >-
       My name is Jacob Cloutier and I am running for the position of councilor
       for our beloved Marysville (Ward 5).
@@ -220,6 +223,7 @@ sections:
       styles:
         self:
           textAlign: left
+          fontWeight: 700
     subtitle: ''
     text: >
       I will be visiting door to door throughout 2024 to learn about your needs
@@ -276,6 +280,9 @@ sections:
       type: TitleBlock
       text: About Jacob Cloutier
       color: text-dark
+      styles:
+        self:
+          fontWeight: 700
     subtitle: ''
     text: >
       Born and raised in Maryville, this is where my family calls home. My
@@ -305,12 +312,15 @@ sections:
       styles:
         self:
           textAlign: center
+          fontWeight: 700
       type: TitleBlock
     subtitle: ''
-    text: >
-      Your voice matters! Fill out this short survey to share your concerns and
-      ideas for improving our community. Your feedback will help shape policies
-      that reflect our residents' needs. Together, we can build a better future!
+    text: >+
+      <div style="text-align: center">Your voice matters! Fill out this short
+      survey to share your concerns and ideas for improving our community. Your
+      feedback will help shape policies that reflect our residents' needs.
+      Together, we can build a better future!</div>
+
     badge:
       label: ''
       color: text-primary
