@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Jacob Cloutier
+      text: Contact
       color: text-dark
       styles:
         self:
