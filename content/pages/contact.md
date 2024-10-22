@@ -28,7 +28,7 @@ sections:
         elementId: ''
       - type: Link
         label: jwkcloutier@hotmail.com
-        altText: ''
+        altText: Email Jacob Cloutier
         url: 'mailto:jwkcloutier@hotmail.com'
         showIcon: false
         icon: arrowRight
