@@ -70,7 +70,9 @@ slug: contact
 seo:
   type: Seo
   metaTitle: 'Jacob Cloutier For Ward 5: Marysville - Contact Jacob Cloutier'
-  metaDescription: This is the pricing page built with Netlify Create.
+  metaDescription: >-
+    Jacob Cloutier For Ward 5: Marysville - Contact Jacob Cloutier or schedule a
+    meeting.
   socialImage: /images/main-hero.jpg
   metaTags: []
 ---
