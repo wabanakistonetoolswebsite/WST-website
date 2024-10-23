@@ -111,7 +111,7 @@ sections:
               - pr-6
         tagline: ''
         text: >
-          #### ✔ Vote Better Infrastructure
+          #### **✔ Vote Better Infrastructure**
 
 
           Sidewalks are treacherous in winter, our bridge is hardly functional,
