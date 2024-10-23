@@ -16,7 +16,6 @@ export default function TitleBlock(props) {
                 'sb-component',
                 'sb-component-block',
                 'sb-component-title',
-                "text-3xl",
                 color,
                 className,
                 styles?.self ? mapStyles(styles?.self) : undefined
