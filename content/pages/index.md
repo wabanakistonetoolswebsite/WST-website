@@ -85,7 +85,7 @@ sections:
             borderWidth: 0
             borderStyle: none
         text: >
-          #### ✔ Vote More Provincial Support
+          #### **✔ Vote More Provincial Support**
 
 
           Fredericton has faced growing challenges, and our city should not be
@@ -111,7 +111,7 @@ sections:
               - pr-6
         tagline: ''
         text: >
-          #### ✔ Vote Better Infrastructure
+          #### **✔ Vote Better Infrastructure**
 
 
           Sidewalks are treacherous in winter, our bridge is hardly functional,
@@ -136,7 +136,7 @@ sections:
               - pb-6
               - pr-6
         text: >
-          #### ✔ Vote Honest Governance
+          #### **✔ Vote Honest Governance**
 
 
           The last city council gave themselves an unjust 34% raise, and that’s
@@ -350,9 +350,11 @@ sections:
         style: primary
         elementId: ''
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/Logo.svg
+  metaTitle: 'Jacob Cloutier For Ward 5: Marysville Fredericton City Council 2026 Election'
+  metaDescription: >-
+    Vote Jacob Cloutier For Ward 5: Marysville Fredericton City Council in the
+    2026 Fredericton Municipal Election.
+  socialImage: /images/JakePortraitEdit.png
   type: Seo
 type: PageLayout
 ---
