@@ -515,7 +515,7 @@ seo:
   metaDescription: >-
     Jacob Cloutier For Ward 5: Marysville - My Platform for the 2026 Election
     for Fredericton City Council
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/TownHall.png
   type: Seo
   addTitleSuffix: false
 type: PageLayout
