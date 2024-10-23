@@ -350,7 +350,7 @@ sections:
         style: primary
         elementId: ''
 seo:
-  metaTitle: Home - Demo site
+  metaTitle: 'Jacob Cloutier For Ward 5: Marysville Fredericton City Council 2026 Election'
   metaDescription: This demo site is built with Netlify Create.
   socialImage: /images/Logo.svg
   type: Seo
