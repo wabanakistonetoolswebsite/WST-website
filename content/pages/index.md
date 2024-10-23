@@ -136,7 +136,7 @@ sections:
               - pb-6
               - pr-6
         text: >
-          #### ✔ Vote Honest Governance
+          #### **✔ Vote Honest Governance**
 
 
           The last city council gave themselves an unjust 34% raise, and that’s
