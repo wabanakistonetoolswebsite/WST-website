@@ -71,7 +71,7 @@ bottomSections:
         textAlign: center
     type: FeaturedItemsSection
 isFeatured: false
-colors: bg-neutral-fg-dark
+colors: bg-neutralAlt-fg-dark
 styles:
   self:
     padding:
