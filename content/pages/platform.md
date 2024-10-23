@@ -509,7 +509,9 @@ sections:
         justifyContent: center
         flexDirection: row
 seo:
-  metaTitle: Pricing - Demo site
+  metaTitle: >-
+    Jacob Cloutier For Ward 5: Marysville - My Platform for the 2026 Election
+    for Fredericton City Council
   metaDescription: This is the pricing page built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
