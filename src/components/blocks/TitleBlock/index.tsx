@@ -16,6 +16,7 @@ export default function TitleBlock(props) {
                 'sb-component',
                 'sb-component-block',
                 'sb-component-title',
+                "sm:text-lg",
                 color,
                 className,
                 styles?.self ? mapStyles(styles?.self) : undefined
