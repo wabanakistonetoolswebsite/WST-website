@@ -70,7 +70,7 @@ bottomSections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-isFeatured: true
+isFeatured: false
 colors: bg-light-fg-dark
 styles:
   self:
@@ -79,12 +79,12 @@ styles:
       - pl-5
       - pb-5
       - pr-5
-    textAlign: center
+    textAlign: left
     borderColor: border-light
     borderStyle: none
     borderWidth: 0
     borderRadius: none
-    flexDirection: col
+    flexDirection: row
 type: PostLayout
 isDraft: true
 ---
