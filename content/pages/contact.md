@@ -73,6 +73,6 @@ seo:
   metaDescription: >-
     Jacob Cloutier For Ward 5: Marysville - Contact Jacob Cloutier or schedule a
     meeting.
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/JakePortraitEdit.png
   metaTags: []
 ---
