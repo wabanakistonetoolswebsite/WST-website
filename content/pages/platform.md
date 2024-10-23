@@ -511,7 +511,7 @@ sections:
 seo:
   metaTitle: >-
     Jacob Cloutier For Ward 5: Marysville - My Platform for the 2026 Election
-    for Fredericton City Council
+    for Fredericton City Council.
   metaDescription: >-
     Jacob Cloutier For Ward 5: Marysville - My Platform for the 2026 Election
     for Fredericton City Council
