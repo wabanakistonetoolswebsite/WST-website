@@ -351,7 +351,9 @@ sections:
         elementId: ''
 seo:
   metaTitle: 'Jacob Cloutier For Ward 5: Marysville Fredericton City Council 2026 Election'
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: >-
+    Vote Jacob Cloutier For Ward 5: Marysville Fredericton City Council in the
+    2026 Fredericton Municipal Election.
   socialImage: /images/Logo.svg
   type: Seo
 type: PageLayout
