@@ -167,7 +167,7 @@ sections:
         alignItems: center
         justifyContent: center
 seo:
-  metaTitle: Careers - Demo site
+  metaTitle: 'Jacob Cloutier for Ward 5: Marysville - About Ward 5 Marysville'
   metaDescription: This is the careers page built with Netlify Create.
   socialImage: /images/HistoricalMarysville.png
   type: Seo
