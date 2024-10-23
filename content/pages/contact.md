@@ -69,8 +69,10 @@ sections:
 slug: contact
 seo:
   type: Seo
-  metaTitle: Pricing - Demo site
-  metaDescription: This is the pricing page built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: 'Jacob Cloutier For Ward 5: Marysville - Contact Jacob Cloutier'
+  metaDescription: >-
+    Jacob Cloutier For Ward 5: Marysville - Contact Jacob Cloutier or schedule a
+    meeting.
+  socialImage: /images/JakePortraitEdit.png
   metaTags: []
 ---
