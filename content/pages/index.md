@@ -51,7 +51,7 @@ sections:
     title:
       type: TitleBlock
       text: My Commitment To Our Home
-      color: text-light
+      color: text-primary
       styles:
         self:
           fontWeight: 700
