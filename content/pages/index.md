@@ -10,15 +10,6 @@ sections:
     subtitle: for Ward 5 Fredericton City Council.
     text: ''
     actions:
-      - label: Schedule a Meeting
-        altText: ''
-        url: 'https://calendly.com/jacobcloutier/30min'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
       - label: Feedback Survey
         altText: 'Ward 5: Marysville Feedback Survey'
         url: >-
