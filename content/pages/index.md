@@ -9,17 +9,7 @@ sections:
       color: text-dark
     subtitle: for Ward 5 Fredericton City Council.
     text: ''
-    actions:
-      - label: Feedback Survey
-        altText: 'Ward 5: Marysville Feedback Survey'
-        url: >-
-          https://docs.google.com/forms/d/e/1FAIpQLScpOHV8b15clE_aoBj7Jo_BqqpUWUu49Uhgg27mJFD16yPQOw/viewform
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     elementId: ''
     colors: bg-neutral-fg-dark
     styles:
