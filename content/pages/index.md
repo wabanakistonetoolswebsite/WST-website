@@ -59,6 +59,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/knife point display.jpg
   - type: FeaturedItemsSection
     items:
       - type: FeaturedItem
