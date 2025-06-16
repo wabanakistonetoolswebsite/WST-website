@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
       styles:
         self:
-          fontWeight: 700
+          fontWeight: 500
     subtitle: for Ward 5 Fredericton City Council.
     text: >+
       > My goal is to help Fredericton and Marysville grow in a meaningful,
