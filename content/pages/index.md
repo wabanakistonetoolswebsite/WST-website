@@ -8,11 +8,7 @@ sections:
       text: Wabanaki Stone Tools
       color: text-dark
     subtitle: for Ward 5 Fredericton City Council.
-    text: >+
-      My goal is to help Fredericton and Marysville grow in a meaningful,
-      sustainable way that has a positive impact not just for today but for
-      those coming tomorrow.
-
+    text: ''
     actions:
       - label: Schedule a Meeting
         altText: ''
