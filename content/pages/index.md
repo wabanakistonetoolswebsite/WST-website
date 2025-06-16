@@ -4,12 +4,13 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Jacob Cloutier
+      text: Wabanaki Stone Tools
       color: text-dark
       type: TitleBlock
       styles:
         self:
           fontWeight: 700
+          textAlign: left
     subtitle: for Ward 5 Fredericton City Council.
     text: >+
       > My goal is to help Fredericton and Marysville grow in a meaningful,
@@ -56,6 +57,13 @@ sections:
         fontWeight: 700
       text:
         textAlign: left
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
   - type: FeaturedItemsSection
     items:
       - type: FeaturedItem
