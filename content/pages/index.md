@@ -35,7 +35,7 @@ sections:
       url: /images/knife point display.jpg
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/Wabanaki Stone Tools Logo - White.svg
       altText: Image alt text placeholder
       elementId: ''
       styles:
