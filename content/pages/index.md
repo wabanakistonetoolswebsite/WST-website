@@ -57,6 +57,13 @@ sections:
         fontWeight: 700
       text:
         textAlign: left
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
   - type: FeaturedItemsSection
     items:
       - type: FeaturedItem
