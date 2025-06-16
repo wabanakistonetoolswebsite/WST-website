@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Wabanaki Stone Tools
       color: text-dark
     subtitle: for Ward 5 Fredericton City Council.
     text: >+
