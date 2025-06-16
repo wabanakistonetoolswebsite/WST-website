@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Jacob Cloutier
+      text: Wabanaki Stone Tools
       color: text-dark
       type: TitleBlock
       styles:
