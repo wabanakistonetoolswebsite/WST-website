@@ -1,6 +1,5 @@
 {
     "logo": {
-        "url": "/images/Logo.svg",
         "altText": "Jacob Cloutier for Ward 5 Fredericton City Council.",
         "styles": {
             "self": {
@@ -62,7 +61,7 @@
             "type": "Button"
         }
     ],
-    "variant": "logo-left-primary-nav-centered",
-    "colors": "bg-light-fg-dark",
+    "variant": "logo-left-primary-nav-left",
+    "colors": "bg-dark-fg-light",
     "type": "Header"
 }

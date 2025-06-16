@@ -4,162 +4,54 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Jacob Cloutier
-      color: text-dark
       type: TitleBlock
-      styles:
-        self:
-          fontWeight: 700
+      text: Wabanaki Stone Tools
+      color: text-dark
     subtitle: for Ward 5 Fredericton City Council.
-    text: >+
-      > My goal is to help Fredericton and Marysville grow in a meaningful,
-      sustainable way that has a positive impact not just for today but for
-      those coming tomorrow.
-
-    actions:
-      - label: Schedule a Meeting
-        altText: ''
-        url: 'https://calendly.com/jacobcloutier/30min'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
-      - label: Feedback Survey
-        altText: 'Ward 5: Marysville Feedback Survey'
-        url: >-
-          https://docs.google.com/forms/d/e/1FAIpQLScpOHV8b15clE_aoBj7Jo_BqqpUWUu49Uhgg27mJFD16yPQOw/viewform
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
-    media:
-      url: /images/JakePortraitEdit.png
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
+    text: ''
+    actions: []
     elementId: ''
     colors: bg-neutral-fg-dark
     styles:
       self:
         alignItems: center
-        flexDirection: row-reverse
+        flexDirection: row
         padding:
-          - pt-0
-          - pl-0
-          - pb-0
-          - pr-0
+          - pt-10
+          - pl-10
+          - pb-10
+          - pr-10
+        justifyContent: center
       subtitle:
         fontWeight: 700
       text:
         textAlign: left
-  - type: FeaturedItemsSection
-    items:
-      - type: FeaturedItem
-        title: ''
-        subtitle: ''
-        image:
-          type: ImageBlock
-          altText: ''
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pl-6
-              - pb-6
-              - pr-6
-            textAlign: left
-            borderRadius: none
-            flexDirection: col
-            justifyContent: center
-            borderColor: border-light
-            borderWidth: 0
-            borderStyle: none
-        text: >
-          #### **✔ Vote More Provincial Support**
-
-
-          Fredericton has faced growing challenges, and our city should not be
-          left to shoulder this burden alone.
-      - type: FeaturedItem
-        title: ''
-        subtitle: ''
-        image:
-          type: ImageBlock
-          altText: ''
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pl-6
-              - pb-6
-              - pr-6
-        tagline: ''
-        text: >
-          #### **✔ Vote Better Infrastructure**
-
-
-          Sidewalks are treacherous in winter, our bridge is hardly functional,
-          transit is a mess. Together we can do better.
-      - type: FeaturedItem
-        title: ''
-        subtitle: ''
-        image:
-          type: ImageBlock
-          altText: ''
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pl-6
-              - pb-6
-              - pr-6
-        text: >
-          #### **✔ Vote Honest Governance**
-
-
-          The last city council gave themselves an unjust 34% raise, and that’s
-          not right.
-    actions: []
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-0
-          - pl-0
-          - pb-0
-          - pr-0
-        justifyContent: flex-start
-      subtitle:
-        textAlign: center
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
+      url: /images/knife point display.jpg
+    media:
+      type: ImageBlock
+      url: /images/Wabanaki Stone Tools Logo - White.svg
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
+          padding:
+            - pt-10
+            - pl-10
+            - pb-10
+            - pr-10
   - type: GenericSection
     title:
       type: TitleBlock
       text: My Commitment To Our Home
-      color: text-dark
+      color: text-primary
       styles:
         self:
           fontWeight: 700
@@ -199,7 +91,7 @@ sections:
       type: ImageBlock
       url: /images/HistoricalMarysville.png
       altText: Fun feature preview
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
