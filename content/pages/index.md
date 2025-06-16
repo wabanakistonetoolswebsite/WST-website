@@ -4,13 +4,9 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Wabanaki Stone Tools
-      color: text-dark
       type: TitleBlock
-      styles:
-        self:
-          fontWeight: 700
-          textAlign: left
+      text: This Is A Big Headline
+      color: text-dark
     subtitle: for Ward 5 Fredericton City Council.
     text: >+
       > My goal is to help Fredericton and Marysville grow in a meaningful,
