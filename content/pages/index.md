@@ -16,7 +16,16 @@ sections:
       audiences and preserving the local
 
       traditions of stone tool manufacture through creation and education.
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     elementId: ''
     colors: bg-neutral-fg-dark
     styles:
