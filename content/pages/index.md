@@ -95,7 +95,7 @@ sections:
       type: ImageBlock
       url: /images/HistoricalMarysville.png
       altText: Fun feature preview
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
