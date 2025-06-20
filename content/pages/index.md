@@ -29,6 +29,8 @@ sections:
           - pb-0
           - pr-0
         justifyContent: center
+        margin:
+          - mb-10
       subtitle:
         fontWeight: 700
       text:
