@@ -24,7 +24,7 @@ sections:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-0
+          - pt-10
           - pl-0
           - pb-10
           - pr-0
