@@ -7,9 +7,25 @@ sections:
       type: TitleBlock
       text: Wabanaki Stone Tools
       color: text-dark
-    subtitle: for Ward 5 Fredericton City Council.
-    text: ''
-    actions: []
+      styles:
+        self:
+          fontWeight: 700
+    subtitle: 'Flintknapping Workshops, Private Lessons, & Demonstrations.'
+    text: >
+      Bringing appreciation for the ancient arts of toolmaking to modern
+      audiences and preserving the local
+
+      traditions of stone tool manufacture through creation and education.
+    actions:
+      - type: Button
+        label: BOOK YOUR NEXT EVENT
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     elementId: ''
     colors: bg-neutral-fg-dark
     styles:
@@ -18,10 +34,15 @@ sections:
         flexDirection: row
         padding:
           - pt-10
-          - pl-10
+          - pl-0
           - pb-10
-          - pr-10
+          - pr-0
         justifyContent: center
+        margin:
+          - mb-0
+          - mt-0
+          - ml-0
+          - mr-0
       subtitle:
         fontWeight: 700
       text:
@@ -47,6 +68,49 @@ sections:
             - pl-10
             - pb-10
             - pr-10
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Generic section with a video
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+          fontWeight: 700
+    subtitle: Section with a video subtitle
+    text: |-
+      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
+      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
+      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
+      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    actions: []
+    media:
+      type: VideoBlock
+      title: Title of the video
+      url: /images/placeholder-video.mp4
+      autoplay: true
+      loop: true
+      muted: true
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
   - type: GenericSection
     title:
       type: TitleBlock
@@ -91,7 +155,7 @@ sections:
       type: ImageBlock
       url: /images/HistoricalMarysville.png
       altText: Fun feature preview
-    colors: bg-dark-fg-light
+    colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
@@ -242,11 +306,15 @@ sections:
         style: primary
         elementId: ''
 seo:
-  metaTitle: 'Jacob Cloutier For Ward 5: Marysville Fredericton City Council 2026 Election'
+  metaTitle: >-
+    Wabanaki Stone Tools - Flintknapping Workshops, Private Lessons, &
+    Demonstrations.
   metaDescription: >-
-    Vote Jacob Cloutier For Ward 5: Marysville Fredericton City Council in the
-    2026 Fredericton Municipal Election.
-  socialImage: /images/JakePortraitEdit.png
+    Bringing appreciation for the ancient arts of toolmaking to modern audiences
+    and preserving the local traditions of stone tool manufacture through
+    creation and education.
+  socialImage: /images/knife point display.jpg
   type: Seo
+  metaTags: []
 type: PageLayout
 ---
