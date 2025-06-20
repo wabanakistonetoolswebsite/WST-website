@@ -246,7 +246,9 @@ sections:
         style: primary
         elementId: ''
 seo:
-  metaTitle: 'Wabanaki Stone Tools - '
+  metaTitle: >-
+    Wabanaki Stone Tools - Flintknapping Workshops, Private Lessons, &
+    Demonstrations.
   metaDescription: >-
     Bringing appreciation for the ancient arts of toolmaking to modern audiences
     and preserving the local traditions of stone tool manufacture through
