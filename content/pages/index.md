@@ -30,7 +30,10 @@ sections:
           - pr-0
         justifyContent: center
         margin:
-          - mb-10
+          - mb-0
+          - mt-0
+          - ml-0
+          - mr-0
       subtitle:
         fontWeight: 700
       text:
