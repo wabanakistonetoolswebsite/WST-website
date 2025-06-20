@@ -30,7 +30,7 @@ sections:
     colors: bg-neutral-fg-dark
     styles:
       self:
-        alignItems: flex-end
+        alignItems: center
         flexDirection: row
         padding:
           - pt-10
