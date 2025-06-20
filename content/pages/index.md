@@ -7,6 +7,9 @@ sections:
       type: TitleBlock
       text: Wabanaki Stone Tools
       color: text-dark
+      styles:
+        self:
+          fontWeight: 700
     subtitle: 'Flintknapping Workshops, Private Lessons, & Demonstrations.'
     text: >
       Bringing appreciation for the ancient arts of toolmaking to modern
