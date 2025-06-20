@@ -250,8 +250,9 @@ sections:
 seo:
   metaTitle: 'Wabanaki Stone Tools - '
   metaDescription: >-
-    Vote Jacob Cloutier For Ward 5: Marysville Fredericton City Council in the
-    2026 Fredericton Municipal Election.
+    Bringing appreciation for the ancient arts of toolmaking to modern audiences
+    and preserving the local traditions of stone tool manufacture through
+    creation and education.
   socialImage: /images/knife point display.jpg
   type: Seo
 type: PageLayout
