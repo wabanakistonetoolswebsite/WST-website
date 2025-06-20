@@ -7,7 +7,10 @@ sections:
       type: TitleBlock
       text: Wabanaki Stone Tools
       color: text-dark
-    subtitle: for Ward 5 Fredericton City Council.
+    subtitle: >-
+      Wabanaki Stone Tools is an Indigenous owned business, operated by
+      Wolastoqiyik (Maliseet),and Mi’kmaq, artist and flintknapping instructor
+      Brian Blaze Palmater.
     text: ''
     actions: []
     elementId: ''
