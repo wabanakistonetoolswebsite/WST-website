@@ -22,7 +22,7 @@ sections:
     styles:
       self:
         alignItems: center
-        flexDirection: row
+        flexDirection: col
         padding:
           - pt-10
           - pl-0
