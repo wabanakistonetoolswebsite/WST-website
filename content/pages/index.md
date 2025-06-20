@@ -27,7 +27,7 @@ sections:
           - pr-10
         justifyContent: center
       subtitle:
-        fontWeight: 400
+        fontWeight: 700
       text:
         textAlign: left
     backgroundImage:
