@@ -255,7 +255,6 @@ seo:
     creation and education.
   socialImage: /images/knife point display.jpg
   type: Seo
-  metaTags:
-    - type: MetaTag
+  metaTags: []
 type: PageLayout
 ---
