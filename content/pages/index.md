@@ -37,7 +37,7 @@ sections:
           - pl-0
           - pb-10
           - pr-0
-        justifyContent: center
+        justifyContent: flex-start
         margin:
           - mb-0
           - mt-0
