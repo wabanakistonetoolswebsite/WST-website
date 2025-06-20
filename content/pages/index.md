@@ -5,9 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: >-
-        Wabanaki Stone Tools - Flintknapping Workshops, Private Lessons, &
-        Demonstrations.
+      text: Wabanaki Stone Tools
       color: text-dark
     subtitle: 'Flintknapping Workshops, Private Lessons, & Demonstrations.'
     text: >
