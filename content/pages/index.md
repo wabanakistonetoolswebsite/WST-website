@@ -18,7 +18,7 @@ sections:
       traditions of stone tool manufacture through creation and education.
     actions:
       - type: Button
-        label: Get started
+        label: BOOK YOUR NEXT EVENT
         altText: ''
         url: /
         showIcon: false
