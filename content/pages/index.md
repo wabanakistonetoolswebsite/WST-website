@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Wabanaki Stone Tools
+      text: 'Flintknapping '
       color: text-dark
     subtitle: Wabanaki Stone Tools
     text: >
