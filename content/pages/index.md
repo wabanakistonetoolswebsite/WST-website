@@ -250,7 +250,7 @@ seo:
   metaDescription: >-
     Vote Jacob Cloutier For Ward 5: Marysville Fredericton City Council in the
     2026 Fredericton Municipal Election.
-  socialImage: /images/Wabanaki Stone Tools Logo - Black.svg
+  socialImage: /images/knife point display.jpg
   type: Seo
 type: PageLayout
 ---
