@@ -17,7 +17,7 @@ sections:
 
       traditions of stone tool manufacture through creation and education.
     actions: []
-    elementId: hero
+    elementId: ''
     colors: bg-neutral-fg-dark
     styles:
       self:
