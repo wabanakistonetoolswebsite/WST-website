@@ -28,7 +28,7 @@ sections:
           - pl-10
           - pb-10
           - pr-10
-        justifyContent: center
+        justifyContent: flex-start
       subtitle:
         fontWeight: 700
       text:
