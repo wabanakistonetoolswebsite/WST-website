@@ -7,10 +7,7 @@ sections:
       type: TitleBlock
       text: Wabanaki Stone Tools
       color: text-dark
-    subtitle: >-
-      Wabanaki Stone Tools is an Indigenous owned business, operated by
-      Wolastoqiyik (Maliseet),and Mi’kmaq, artist and flintknapping instructor
-      Brian Blaze Palmater.
+    subtitle: Wabanaki Stone Tools
     text: ''
     actions: []
     elementId: ''
