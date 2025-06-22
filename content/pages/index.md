@@ -26,7 +26,7 @@ sections:
         altText: ''
         url: /
         showIcon: true
-        icon: arrowRight
+        icon: send
         iconPosition: right
         style: primary
         elementId: ''
