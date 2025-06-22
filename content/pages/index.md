@@ -63,7 +63,7 @@ sections:
     backgroundImage:
       type: BackgroundImage
       altText: altText of the image
-      backgroundSize: auto
+      backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
@@ -157,7 +157,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-        altText: Learn More About Jacob Cloutier's Platform
+        altText: See more of Brain Blaze Palmater's work
     media:
       type: ImageBlock
       url: /images/HistoricalMarysville.png
@@ -181,7 +181,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: I'm Here to Represent You
+      text: Workshops & Services
       color: text-dark
       styles:
         self:
@@ -189,33 +189,30 @@ sections:
           fontWeight: 700
     subtitle: ''
     text: >
-      I will be visiting door to door throughout 2024 to learn about your needs
-      and desires for Marysville and Fredericton in general. This will help me
-      to focus on what matters most to you. I intend to follow up in 2025 and
-      2026 with additional outreach and surveys to make sure I am on track and
-      stay aligned with community needs.
+      Whether you’re a curious beginner or an educator looking to enrich your programming, Wabanaki Stone Tools offers immersive, hands-on flintknapping experiences tailored to your needs.
 
+      Workshops Include:
+      • A live presentation covering the history, tools, materials, and safety techniques
+      • Demonstrations of basic flintknapping methods
+      • Hands-on practice with provided tools and safety gear
+      • The chance to create and take home your own handmade arrowhead
 
-      If elected, I will continue to listen and stay on course to support all of
-      Ward 5 and Fredericton.
+      Options:
+      🪨 Half-Day Workshop (3–4 hrs)
+      • 10–15 participants | $50/person
 
+      🪨 Full-Day Workshop (6–8 hrs)
+      • 15–30 participants | $50/person
 
-      Between now and the election day I will be meeting with as many local
-      leaders and professionals as I can that effect or have insight about our
-      city and talk about what we are doing right and what we could do better ,
-      my goal will be to meet with over 100 of these individuals at this stage I
-      have met with 15.
-
-
-      Please take a few minutes to fill out the survey below.
+      All tools, safety equipment, and materials provided. Venue rental fees may apply.
+      Workshops can be adapted for adult or youth groups. For children under 8, please reach out directly to discuss safe participation.
     actions:
       - type: Link
-        label: Have Your Voice Heard
+        label: Contact Us To Book
         altText: >-
-          Have your voice heard by submitting a short survey about ward 5
-          Marysville
+          Contact Wabanaki Stone Tools To Book A Workshop
         url: >-
-          https://docs.google.com/forms/d/e/1FAIpQLScpOHV8b15clE_aoBj7Jo_BqqpUWUu49Uhgg27mJFD16yPQOw/viewform
+          /
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -238,80 +235,6 @@ sections:
           - pb-3
           - pr-3
     type: DividerSection
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: About Jacob Cloutier
-      color: text-dark
-      styles:
-        self:
-          fontWeight: 700
-    subtitle: ''
-    text: >
-      Born and raised in Maryville, this is where my family calls home. My
-      passion lies in spending quality time with family and in our community.
-      Volunteering and living in different parts of Maryville I have been
-      exposed to many diverse lifestyles and community challenges. Being driven
-      by a thirst for knowledge and always seeking solutions, I aim to
-      understand and address these challenges to improve our ward for my family
-      and yours.
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/FamilyPhoto.png
-      altText: Dope design preview
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-  - title:
-      text: Community Concerns Survey
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-          fontWeight: 700
-      type: TitleBlock
-    subtitle: ''
-    text: >+
-      <div style="text-align: center">Your voice matters! Fill out this short
-      survey to share your concerns and ideas for improving our community. Your
-      feedback will help shape policies that reflect our residents' needs.
-      Together, we can build a better future!</div>
-
-    badge:
-      label: ''
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
-    actions:
-      - type: Button
-        label: Have Your Voice Heard
-        altText: >-
-          Have your voice heard by submitting a short survey about ward 5
-          Marysville
-        url: >-
-          https://docs.google.com/forms/d/e/1FAIpQLScpOHV8b15clE_aoBj7Jo_BqqpUWUu49Uhgg27mJFD16yPQOw/viewform
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
 seo:
   metaTitle: >-
     Wabanaki Stone Tools - Flintknapping Workshops, Private Lessons, &
