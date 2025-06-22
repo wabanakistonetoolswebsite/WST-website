@@ -17,6 +17,7 @@
                 "style": "secondary",
                 "type": "Link"
             }
+            
         ],
         "type": "FooterLinksGroup"
     },
@@ -41,7 +42,17 @@
             "type": "Social"
         }
     ],
-    "legalLinks": [],
+    "legalLinks": [
+        {
+        "label": "Privacy Policy",
+        "altText": "Privacy Policy",
+        "url": "/privacy",
+        "icon": "arrowRight",
+        "iconPosition": "right",
+        "style": "secondary",
+        "type": "Link"
+        }
+    ],
     "copyrightText": "© 2025 - Rob Gray 2025\n",
     "colors": "bg-light-fg-dark",
     "type": "Footer"
