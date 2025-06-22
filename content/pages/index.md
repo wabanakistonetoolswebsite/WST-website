@@ -22,7 +22,7 @@ sections:
 
     actions:
       - type: Button
-        label: BOOK YOUR NEXT EVENT
+        label: Book a workshop
         altText: ''
         url: /
         showIcon: false
