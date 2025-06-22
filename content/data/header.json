@@ -53,8 +53,8 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Meet With Me",
-            "url": "https://calendly.com/jacobcloutier/30min",
+            "label": "Book a Workshop",
+            "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
