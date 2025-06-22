@@ -1,6 +1,6 @@
 {
     "logo": {
-        "url": "Wabanaki Stone Tools Logo - Black.svg",
+        "url": "images/Wabanaki Stone Tools Logo - Black.svg",
         "altText": "Wabanaki Stone Tools Logo",
         "type": "ImageBlock"
     },
@@ -9,56 +9,21 @@
         "title": "Pages",
         "links": [
             {
-                "label": "Platform",
-                "altText": "Platform page",
-                "url": "/platform",
+                "label": "Home",
+                "altText": "Home page",
+                "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
-            },
-            {
-                "label": "Ward 5",
-                "url": "/ward5-marysville",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link",
-                "altText": "About Ward 5: Marysville"
-            },
-            {
-                "label": "Contact",
-                "url": "/contact",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link",
-                "altText": "Contact Me"
             }
         ],
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "ENGAGE",
+        "title": "",
         "links": [
-            {
-                "label": "Ward 5 Feedback Survey",
-                "altText": "Ward 5 Feedback Survey",
-                "url": "https://docs.google.com/forms/d/e/1FAIpQLScpOHV8b15clE_aoBj7Jo_BqqpUWUu49Uhgg27mJFD16yPQOw/viewform",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Schedule Meeting",
-                "url": "https://calendly.com/jacobcloutier/30min",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link",
-                "altText": "Schedule Meeting "
-            }
+            
         ],
         "type": "FooterLinksGroup"
     },
