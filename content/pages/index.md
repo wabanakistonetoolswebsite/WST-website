@@ -78,11 +78,29 @@ sections:
           textAlign: left
           fontWeight: 700
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Wabanaki Stone Tools is an Indigenous owned business, operated by
+      Wolastoqiyik (Maliseet),
+
+      and Mi’kmaq, artist and flintknapping instructor Brian Blaze Palmater.
+      Flintknapping is the art of
+
+      shaping stones into tools, art objects, and jewellery. It is also the
+      foundation necessary for the
+
+      development of all human cultures and technologies. Whether it’s as simple
+      as a knife, or as
+
+      complicated as an integrated circuit, all human technologies are a direct
+      result of our ongoing,
+
+      and ever evolving, relationship with stone tools. The purpose of this
+      business is to bring an
+
+      appreciation for this ancient art of toolmaking to a modern audience, and
+      to preserve the local
+
+      traditions of stone tool manufacture through creation and education.
     actions: []
     media:
       type: VideoBlock
