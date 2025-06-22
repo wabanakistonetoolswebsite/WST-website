@@ -101,7 +101,7 @@ sections:
 
       Flintknapping is more than just shaping stone. It’s a direct link to our
       past, the foundation of all human technology, and a deeply creative act.
-      Our work brings this ancient practice into modern hands—through
+      Our work brings this ancient practice into modern hands through
       storytelling, hands-on experience, and community engagement.
     actions: []
     media:
