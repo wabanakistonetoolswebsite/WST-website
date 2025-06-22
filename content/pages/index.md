@@ -31,7 +31,7 @@ sections:
         style: primary
         elementId: ''
       - type: Link
-        label: Instagram
+        label: Follow us on Instagram
         altText: Instagram
         url: 'https://www.instagram.com/wabanakistonetools/'
         showIcon: true
