@@ -134,7 +134,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Meet the Artist
+      text: Brian Blaze Palmater
       color: text-dark
       styles:
         self:
