@@ -94,7 +94,7 @@ sections:
     text: >
       Wabanaki Stone Tools is an Indigenous-owned small business dedicated to
       reviving the ancient art of flintknapping. Run by Brian Blaze Palmater; a
-      Wolastoqiyik (Maliseet) and Mi’kmaq artist and educator our mission is to
+      Wolastoqiyik (Maliseet) and Mi’kmaq artist and educator. Our mission is to
       preserve and pass on traditional knowledge of stone tool creation through
       both art and education.
 
