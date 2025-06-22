@@ -90,7 +90,7 @@ sections:
         self:
           textAlign: left
           fontWeight: 700
-    subtitle: Section with a video subtitle
+    subtitle: Flintknapping Workshops, Private Lessons, & Demonstrations.
     text: >+
 
       Wabanaki Stone Tools is an Indigenous-owned small business dedicated to
