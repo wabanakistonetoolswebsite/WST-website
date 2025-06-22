@@ -139,9 +139,9 @@ sections:
       styles:
         self:
           fontWeight: 700
-    subtitle: >-
-      My name is Jacob Cloutier and I am running for the position of councilor
-      for our beloved Marysville (Ward 5).
+    subtitle: |-
+      Brian Blaze Palmater
+      Flintknapper | Artist | Educator
     text: >+
       If elected, there are four key areas I plan to address:
 
