@@ -1,10 +1,10 @@
 {
     "logo": {
-        "url": "/images/Logo.svg",
-        "altText": "Logo light",
+        "url": "Wabanaki Stone Tools Logo - Black.svg",
+        "altText": "Wabanaki Stone Tools Logo",
         "type": "ImageBlock"
     },
-    "text": "**Jacob Cloutier** is running Fredericton city council for Ward 5 in the upcoming 2026 election.\n\n[+1 (506) 260-3529](tel:1-506-260-3529)\n\n<jwkcloutier@hotmail.com>\n\n",
+    "text": "Reviving the ancient art of flintknapping through creation, connection, and community.",
     "primaryLinks": {
         "title": "Pages",
         "links": [
@@ -64,20 +64,20 @@
     },
     "socialLinks": [
         {
-            "altText": "Twitter link",
+            "altText": "Wabanaki Stone Tools Instagram",
             "url": "https://twitter.com/netlify",
-            "icon": "facebook",
+            "icon": "instagram",
             "type": "Social"
         },
         {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
+            "altText": "Wabanaki Stone Tools Facebook",
+            "url": "https://www.facebook.com/WabanakiStoneTools/",
+            "icon": "facebook",
             "type": "Social"
         }
     ],
     "legalLinks": [],
-    "copyrightText": "© 2024 - Rob Gray 2024\n",
+    "copyrightText": "© 2025 - Rob Gray 2025\n",
     "colors": "bg-light-fg-dark",
     "type": "Footer"
 }
