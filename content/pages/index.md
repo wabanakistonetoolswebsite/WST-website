@@ -11,11 +11,15 @@ sections:
         self:
           fontWeight: 700
     subtitle: 'Flintknapping Workshops, Private Lessons, & Demonstrations.'
-    text: >
-      Bringing appreciation for the ancient arts of toolmaking to modern
-      audiences and preserving the local
+    text: >+
 
-      traditions of stone tool manufacture through creation and education.
+      Discover the art of flintknapping with Indigenous artist and instructor
+      Brian Blaze Palmater. At Wabanaki Stone Tools, we preserve and share the
+      knowledge of stone tool creation; a practice that once shaped
+      civilizations, and still holds power and beauty today. Through hands-on
+      workshops, live demos, and educational offerings, we invite you to connect
+      with ancestral knowledge and craft something timeless.
+
     actions:
       - type: Button
         label: BOOK YOUR NEXT EVENT
