@@ -139,9 +139,7 @@ sections:
       styles:
         self:
           fontWeight: 700
-    subtitle: |-
-      Brian Blaze Palmater
-      Flintknapper | Artist | Educator
+    subtitle: Flintknapper | Artist | Educator
     text: >+
       If elected, there are four key areas I plan to address:
 
