@@ -91,7 +91,8 @@ sections:
           textAlign: left
           fontWeight: 700
     subtitle: Section with a video subtitle
-    text: >
+    text: >+
+
       Wabanaki Stone Tools is an Indigenous-owned small business dedicated to
       reviving the ancient art of flintknapping. Run by Brian Blaze Palmater; a
       Wolastoqiyik (Maliseet) and Mi’kmaq artist and educator. Our mission is to
@@ -140,7 +141,8 @@ sections:
         self:
           fontWeight: 700
     subtitle: Flintknapper | Artist | Educator
-    text: >
+    text: >+
+
       I am an Indigenous artist, and flintknapping instructor, from Neqotkuk (Tobique First Nation). I also have Mi’kmaq family ties to Ugpi’ganjig (Eel River Bar First Nation). I am the only Wolastoqiyik (Maliseet) flintknapper who is currently practicing my artform at a professional level, and offering workshops teaching the basic fundamentals. 
 
       I have been flintknapping for roughly ten years now, but I have been an artist for my entire adult life. In addition to working with stones, I also work with wood, bone, antler, and various other natural materials that have a longstanding tradition of use by Indigenous toolmakers. 
@@ -151,7 +153,7 @@ sections:
 
     actions:
       - type: Link
-        label: Learn More About My Platform
+        label: See more of Brain Blaze Palmater's work
         url: /platform
         showIcon: true
         icon: arrowRight
@@ -188,7 +190,8 @@ sections:
           textAlign: left
           fontWeight: 700
     subtitle: ''
-    text: >
+    text: >+
+
       Whether you’re a curious beginner or an educator looking to enrich your programming, Wabanaki Stone Tools offers immersive, hands-on flintknapping experiences tailored to your needs.
 
       Workshops Include:
