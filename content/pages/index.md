@@ -30,6 +30,15 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+      - type: Link
+        label: Instagram
+        altText: Instagram
+        url: 'https://www.instagram.com/wabanakistonetools/'
+        showIcon: true
+        icon: instagram
+        iconPosition: left
+        style: secondary
+        elementId: ''
     elementId: ''
     colors: bg-neutral-fg-dark
     styles:
