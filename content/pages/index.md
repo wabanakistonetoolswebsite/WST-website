@@ -134,7 +134,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: My Commitment To Our Home
+      text: Meet the Artist
       color: text-dark
       styles:
         self:
