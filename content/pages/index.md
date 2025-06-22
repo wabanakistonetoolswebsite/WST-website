@@ -141,24 +141,68 @@ sections:
           fontWeight: 700
     subtitle: Flintknapper | Artist | Educator
     text: >+
-      If elected, there are four key areas I plan to address:
+      > My name is Brian Blaze Palmater. I am an Indigenous artist, and
+      flintknapping instructor, from
+
+      > Neqotkuk (Tobique First Nation). I also have Mi’kmaq family ties to
+      Ugpi’ganjig (Eel River Bar
+
+      > First Nation). I am the only Wolastoqiyik (Maliseet) flintknapper who is
+      currently practicing my
+
+      > artform at a professional level, and offering workshops teaching the
+      basic fundamentals. I have
+
+      > been flintknapping for roughly ten years now, but I have been an artist
+      for my entire adult life. In
+
+      > addition to working with stones, I also work with wood, bone, antler,
+      and various other natural
+
+      > materials that have a longstanding tradition of use by Indigenous
+      toolmakers.
+
+      > What led me to pursue flintknapping specifically as an artform was a
+      lifelong love of collecting
+
+      > stones. This interest in Geology naturally blossomed into an interest in
+      Archeology as well, as I
+
+      > found myself wondering just how my ancestors went about transforming
+      rocks into usable tools.
+
+      > Without local access to mentorship, or instruction, I turned to the
+      internet, and to books, as well
+
+      > as Archeological and Geological survey data. What I found was a wealth
+      of knowledge that had
+
+      > been recorded on the subject, but was not actively being passed down in
+      my community.
+
+      > Wolastoqiyik flintknappers once had a trade network of precious
+      knappable stones that spanned
+
+      > from Northern Labrador south into Maine, and possibly even beyond. Given
+      our history as some
+
+      > of the most accomplished flintknappers, toolmakers, hunters, and
+      trappers in the region, I was
+
+      > truly disappointed to find that the bulk of our local knowledge on the
+      subject had been forgotten.
+
+      > Rather than being discouraged by this, I realized that it meant I had an
+      opportunity to bring that
+
+      > knowledge back, not only to my own community, but to the wider global
+      community as well. This
+
+      > is the vision and purpose that drove me to the creation of Wabanaki
+      Stone Tools.
 
 
-      *   Homelessness & poverty.
-
-
-      *   Infrastructure issues such as we are seeing with the Marysville
-      Bridge. There have also been growing concerns with the quality of our
-      sidewalks, especially during winter months.
-
-
-      *   Development of a strong business and employee ecosystem for the
-      Fredericton Region.
-
-
-      *   Councilor wage control
-
-
+      *\~ Bran Blaze Palmater*
 
     actions:
       - type: Link
