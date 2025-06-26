@@ -233,10 +233,10 @@ sections:
       **Options:**
 
 
-      Half-Day Workshop (3–4 hrs) • 10–15 participants | $50/person
+      Half-Day Workshop (3–4 hrs) 10–15 participants | $50/person
 
 
-      Full-Day Workshop (6–8 hrs) • 15–30 participants | $50/person
+      Full-Day Workshop (6–8 hrs) 15–30 participants | $50/person
 
 
       All tools, safety equipment, and materials provided. Venue rental fees may
