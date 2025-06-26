@@ -180,7 +180,7 @@ sections:
         altText: See more of Brain Blaze Palmater's work
     media:
       type: ImageBlock
-      url: /images/HistoricalMarysville.png
+      url: /images/Wabanaki Stone Tools Logo - Black.svg
       altText: Fun feature preview
     colors: bg-light-fg-dark
     styles:
