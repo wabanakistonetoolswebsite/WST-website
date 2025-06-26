@@ -180,7 +180,7 @@ sections:
         altText: See more of Brain Blaze Palmater's work
     media:
       type: ImageBlock
-      url: /images/Brian Blaze Palmater.jpg
+      url: /images/Brian Blaze Palmater.png
       altText: Fun feature preview
     colors: bg-light-fg-dark
     styles:
