@@ -24,7 +24,7 @@ sections:
       - type: Button
         label: Book a workshop
         altText: ''
-        url: /
+        url: '#contact'
         showIcon: true
         icon: send
         iconPosition: right
