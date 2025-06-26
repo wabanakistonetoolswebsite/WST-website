@@ -126,34 +126,42 @@ sections:
       subtitle:
         textAlign: left
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/empathy-logo.svg
+        url: /images/STONE POINTS 2024-2025 JAN (23).jpg
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
-        url: /images/wellster-logo.svg
+        url: /images/STONE POINTS 2024-2025 JAN (28).jpg
         altText: Wellster logo
         elementId: ''
       - type: ImageBlock
-        url: /images/vise-logo.svg
+        url: /images/STONE POINTS 2024-2025 JAN (35).jpg
         altText: Vise logo
         elementId: ''
       - type: ImageBlock
-        url: /images/telus-logo.svg
+        url: /images/STONE POINTS 2024-2025 JAN (41).jpg
         altText: Telus logo
         elementId: ''
       - type: ImageBlock
-        url: /images/contenful-logo.svg
+        url: /images/STONE POINTS 2024-2025 JAN (60).jpg
         altText: Contentful logo
         elementId: ''
       - type: ImageBlock
-        url: /images/sanity-logo.svg
+        url: /images/STONE POINTS 2024-2025 JAN (72).jpg
         altText: Sanity logo
         elementId: ''
       - type: ImageBlock
-        url: /images/rangle-logo.svg
+        url: /images/STONE POINTS 2024-2025 JAN (79).jpg
+        altText: Rangle logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/STONE POINTS 2024-2025 JAN (223).jpg
+        altText: Rangle logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/STONE POINTS 2024-2025 JAN (226).jpg
         altText: Rangle logo
         elementId: ''
     elementId: ''
