@@ -208,31 +208,29 @@ sections:
           textAlign: left
           fontWeight: 700
     subtitle: ''
-    text: >+
+    text: >
       Whether you’re a curious beginner or an educator looking to enrich your
       programming, Wabanaki Stone Tools offers immersive, hands-on flintknapping
       experiences tailored to your needs.
 
 
-
-      Workshops Include: 
+      **Workshops Include:**
 
 
       *   A live presentation covering the history, tools, materials, and safety
-      techniques 
+      techniques
 
 
       *   Demonstrations of basic flintknapping methods
 
 
-      *   Hands-on practice with provided tools and safety gear 
+      *   Hands-on practice with provided tools and safety gear
 
 
       *   The chance to create and take home your own handmade arrowhead
 
 
-
-      Options: 
+      **Options:**
 
 
       *   Half-Day Workshop (3–4 hrs) • 10–15 participants | $50/person
@@ -241,11 +239,9 @@ sections:
       *   Full-Day Workshop (6–8 hrs) • 15–30 participants | $50/person
 
 
-
       All tools, safety equipment, and materials provided. Venue rental fees may
       apply. Workshops can be adapted for adult or youth groups. For children
       under 8, please reach out directly to discuss safe participation.
-
     actions:
       - type: Link
         label: Contact Us To Book
