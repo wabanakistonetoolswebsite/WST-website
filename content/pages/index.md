@@ -180,7 +180,7 @@ sections:
         altText: See more of Brain Blaze Palmater's work
     media:
       type: ImageBlock
-      url: /images/Wabanaki Stone Tools Logo - Black.svg
+      url: /images/Brian Blaze Palmater.png
       altText: Fun feature preview
     colors: bg-light-fg-dark
     styles:
@@ -259,6 +259,64 @@ sections:
         justifyContent: flex-start
       subtitle:
         textAlign: left
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: We would love to hear from you
+      color: text-dark
+    subtitle: ''
+    text: >
+      If you would like to book a workshop, private lesson, educational
+      demonstration, or discuss
+
+      pricing options for different types of events, please reach out.
+    actions: []
+    media:
+      type: FormBlock
+      fields:
+        - type: TextFormControl
+          name: name
+          label: Name
+          hideLabel: true
+          placeholder: Your name
+          isRequired: true
+          width: full
+        - type: EmailFormControl
+          name: email
+          label: Email
+          hideLabel: true
+          placeholder: Your email
+          isRequired: true
+          width: full
+        - type: TextareaFormControl
+          name: message
+          label: Message
+          hideLabel: true
+          placeholder: Your message
+          width: full
+      submitButton:
+        type: SubmitButtonFormControl
+        label: Submit
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+      elementId: contact-form
+      styles:
+        self:
+          padding:
+            - pt-6
+            - pb-6
+            - pl-6
+            - pr-6
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+    badge:
+      type: Badge
+      label: Contact Us
+      color: text-primary
+    colors: bg-light-fg-dark
   - title: Divider
     colors: bg-light-fg-dark
     styles:
