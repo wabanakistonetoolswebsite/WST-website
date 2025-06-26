@@ -98,7 +98,9 @@ sections:
     actions: []
     media:
       type: VideoBlock
-      title: 'Flintknapping Workshops, Private Lessons, & Demonstrations.'
+      title: >-
+        Wabanaki Stone Tools - Flintknapping Workshops, Private Lessons, &
+        Demonstrations.
       url: /images/smallFlakes1.mp4
       autoplay: true
       loop: true
