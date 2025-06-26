@@ -153,7 +153,9 @@ sections:
       tools. Without local access to mentorship, or instruction, I turned to the
       internet, and to books, as well as Archeological and Geological survey
       data. What I found was a wealth of knowledge that had been recorded on the
-      subject, but was not actively being passed down in my community.
+      subject, but was not actively being passed down in my community. 
+
+
       Wolastoqiyik flintknappers once had a trade network of precious knappable
       stones that spanned from Northern Labrador south into Maine, and possibly
       even beyond. Given our history as some of the most accomplished
@@ -164,7 +166,6 @@ sections:
       not only to my own community, but to the wider global community as well.
       This is the vision and purpose that drove me to the creation of Wabanaki
       Stone Tools.
-
 
 
       *\~ Bran Blaze Palmater*
