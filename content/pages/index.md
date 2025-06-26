@@ -132,18 +132,19 @@ sections:
         self:
           fontWeight: 700
     subtitle: Flintknapper | Artist | Educator
-    text: >+
-
+    text: >
       I am an Indigenous artist, and flintknapping instructor, from Neqotkuk
       (Tobique First Nation). I also have Mi’kmaq family ties to Ugpi’ganjig
       (Eel River Bar First Nation). I am the only Wolastoqiyik (Maliseet)
       flintknapper who is currently practicing my artform at a professional
-      level, and offering workshops teaching the basic fundamentals. 
+      level, and offering workshops teaching the basic fundamentals.
+
 
       I have been flintknapping for roughly ten years now, but I have been an
       artist for my entire adult life. In addition to working with stones, I
       also work with wood, bone, antler, and various other natural materials
-      that have a longstanding tradition of use by Indigenous toolmakers. 
+      that have a longstanding tradition of use by Indigenous toolmakers.
+
 
       What led me to pursue flintknapping specifically as an artform was a
       lifelong love of collecting stones. This interest in Geology naturally
@@ -164,8 +165,9 @@ sections:
       This is the vision and purpose that drove me to the creation of Wabanaki
       Stone Tools.
 
-      *\~ Bran Blaze Palmater*
 
+
+      *\~ Bran Blaze Palmater*
     actions:
       - type: Link
         label: See more of Brain Blaze Palmater's work
