@@ -137,10 +137,6 @@ sections:
         altText: Wellster logo
         elementId: ''
       - type: ImageBlock
-        url: /images/STONE POINTS 2024-2025 JAN (35).jpg
-        altText: Vise logo
-        elementId: ''
-      - type: ImageBlock
         url: /images/STONE POINTS 2024-2025 JAN (41).jpg
         altText: Telus logo
         elementId: ''
