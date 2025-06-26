@@ -116,7 +116,7 @@ sections:
             - pr-0
           borderColor: border-dark
           borderStyle: solid
-          borderWidth: 1
+          borderWidth: 0
           borderRadius: none
     colors: bg-light-fg-dark
     styles:
