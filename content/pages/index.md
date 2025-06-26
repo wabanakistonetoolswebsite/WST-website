@@ -98,8 +98,10 @@ sections:
     actions: []
     media:
       type: VideoBlock
-      title: Title of the video
-      url: /images/placeholder-video.mp4
+      title: >-
+        Wabanaki Stone Tools - Flintknapping Workshops, Private Lessons, &
+        Demonstrations.
+      url: /images/smallFlakes1.mp4
       autoplay: true
       loop: true
       muted: true
@@ -180,7 +182,7 @@ sections:
         altText: See more of Brain Blaze Palmater's work
     media:
       type: ImageBlock
-      url: /images/Wabanaki Stone Tools Logo - Black.svg
+      url: /images/Brian Blaze Palmater.png
       altText: Fun feature preview
     colors: bg-light-fg-dark
     styles:
@@ -208,44 +210,40 @@ sections:
           textAlign: left
           fontWeight: 700
     subtitle: ''
-    text: >+
+    text: >
       Whether you’re a curious beginner or an educator looking to enrich your
       programming, Wabanaki Stone Tools offers immersive, hands-on flintknapping
       experiences tailored to your needs.
 
 
-
-      Workshops Include: 
+      **Workshops Include:**
 
 
       *   A live presentation covering the history, tools, materials, and safety
-      techniques 
+      techniques
 
 
       *   Demonstrations of basic flintknapping methods
 
 
-      *   Hands-on practice with provided tools and safety gear 
+      *   Hands-on practice with provided tools and safety gear
 
 
       *   The chance to create and take home your own handmade arrowhead
 
 
-
-      Options: 
-
-
-      *   Half-Day Workshop (3–4 hrs) • 10–15 participants | $50/person
+      **Options:**
 
 
-      *   Full-Day Workshop (6–8 hrs) • 15–30 participants | $50/person
+      Half-Day Workshop (3–4 hrs) 10–15 participants | $50/person
 
+
+      Full-Day Workshop (6–8 hrs) 15–30 participants | $50/person
 
 
       All tools, safety equipment, and materials provided. Venue rental fees may
       apply. Workshops can be adapted for adult or youth groups. For children
       under 8, please reach out directly to discuss safe participation.
-
     actions:
       - type: Link
         label: Contact Us To Book
@@ -259,10 +257,68 @@ sections:
     colors: bg-light-fg-dark
     styles:
       self:
-        flexDirection: row
+        flexDirection: row-reverse
         justifyContent: flex-start
       subtitle:
         textAlign: left
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: We would love to hear from you
+      color: text-dark
+    subtitle: ''
+    text: >
+      If you would like to book a workshop, private lesson, educational
+      demonstration, or discuss
+
+      pricing options for different types of events, please reach out.
+    actions: []
+    media:
+      type: FormBlock
+      fields:
+        - type: TextFormControl
+          name: name
+          label: Name
+          hideLabel: true
+          placeholder: Your name
+          isRequired: true
+          width: full
+        - type: EmailFormControl
+          name: email
+          label: Email
+          hideLabel: true
+          placeholder: Your email
+          isRequired: true
+          width: full
+        - type: TextareaFormControl
+          name: message
+          label: Message
+          hideLabel: true
+          placeholder: Your message
+          width: full
+      submitButton:
+        type: SubmitButtonFormControl
+        label: Submit
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+      elementId: contact-form
+      styles:
+        self:
+          padding:
+            - pt-6
+            - pb-6
+            - pl-6
+            - pr-6
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+    badge:
+      type: Badge
+      label: Contact Us
+      color: text-primary
+    colors: bg-light-fg-dark
   - title: Divider
     colors: bg-light-fg-dark
     styles:
