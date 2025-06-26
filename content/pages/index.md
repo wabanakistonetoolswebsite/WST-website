@@ -98,7 +98,7 @@ sections:
     actions: []
     media:
       type: VideoBlock
-      title: Title of the video
+      title: 'Flintknapping Workshops, Private Lessons, & Demonstrations.'
       url: /images/smallFlakes1.mp4
       autoplay: true
       loop: true
