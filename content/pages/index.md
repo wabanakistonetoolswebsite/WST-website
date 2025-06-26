@@ -355,7 +355,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-      elementId: contact-form
+      elementId: contact
       styles:
         self:
           padding:
