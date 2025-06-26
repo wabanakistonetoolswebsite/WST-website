@@ -264,7 +264,7 @@ sections:
       type: TitleBlock
       text: We would love to hear from you
       color: text-dark
-    subtitle: Section with a form subtitle
+    subtitle: ''
     text: >
       If you would like to book a workshop, private lesson, educational
       demonstration, or discuss
