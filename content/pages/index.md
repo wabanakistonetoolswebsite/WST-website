@@ -24,20 +24,11 @@ sections:
       - type: Button
         label: Book a workshop
         altText: ''
-        url: /
+        url: '#contact'
         showIcon: true
         icon: send
         iconPosition: right
         style: primary
-        elementId: ''
-      - type: Link
-        label: Follow us on Instagram
-        altText: Instagram
-        url: 'https://www.instagram.com/wabanakistonetools/'
-        showIcon: true
-        icon: instagram
-        iconPosition: left
-        style: secondary
         elementId: ''
     elementId: ''
     colors: bg-neutral-fg-dark
@@ -90,8 +81,8 @@ sections:
         self:
           textAlign: left
           fontWeight: 700
-    subtitle: Flintknapping Workshops, Private Lessons, & Demonstrations.
-    text: >+
+    subtitle: 'Flintknapping Workshops, Private Lessons, & Demonstrations.'
+    text: >
 
       Wabanaki Stone Tools is an Indigenous-owned small business dedicated to
       reviving the ancient art of flintknapping. Run by Brian Blaze Palmater; a
@@ -141,16 +132,43 @@ sections:
         self:
           fontWeight: 700
     subtitle: Flintknapper | Artist | Educator
-    text: >+
+    text: >
+      I am an Indigenous artist, and flintknapping instructor, from Neqotkuk
+      (Tobique First Nation). I also have Mi’kmaq family ties to Ugpi’ganjig
+      (Eel River Bar First Nation). I am the only Wolastoqiyik (Maliseet)
+      flintknapper who is currently practicing my artform at a professional
+      level, and offering workshops teaching the basic fundamentals.
 
-      I am an Indigenous artist, and flintknapping instructor, from Neqotkuk (Tobique First Nation). I also have Mi’kmaq family ties to Ugpi’ganjig (Eel River Bar First Nation). I am the only Wolastoqiyik (Maliseet) flintknapper who is currently practicing my artform at a professional level, and offering workshops teaching the basic fundamentals. 
 
-      I have been flintknapping for roughly ten years now, but I have been an artist for my entire adult life. In addition to working with stones, I also work with wood, bone, antler, and various other natural materials that have a longstanding tradition of use by Indigenous toolmakers. 
+      I have been flintknapping for roughly ten years now, but I have been an
+      artist for my entire adult life. In addition to working with stones, I
+      also work with wood, bone, antler, and various other natural materials
+      that have a longstanding tradition of use by Indigenous toolmakers.
 
-      What led me to pursue flintknapping specifically as an artform was a lifelong love of collecting stones. This interest in Geology naturally blossomed into an interest in Archeology as well, as I found myself wondering just how my ancestors went about transforming rocks into usable tools. Without local access to mentorship, or instruction, I turned to the internet, and to books, as well as Archeological and Geological survey data. What I found was a wealth of knowledge that had been recorded on the subject, but was not actively being passed down in my community. Wolastoqiyik flintknappers once had a trade network of precious knappable stones that spanned from Northern Labrador south into Maine, and possibly even beyond. Given our history as some of the most accomplished flintknappers, toolmakers, hunters, and trappers in the region, I was truly disappointed to find that the bulk of our local knowledge on the subject had been forgotten. Rather than being discouraged by this, I realized that it meant I had an opportunity to bring that knowledge back, not only to my own community, but to the wider global community as well. This is the vision and purpose that drove me to the creation of Wabanaki Stone Tools.
+
+      What led me to pursue flintknapping specifically as an artform was a
+      lifelong love of collecting stones. This interest in Geology naturally
+      blossomed into an interest in Archeology as well, as I found myself
+      wondering just how my ancestors went about transforming rocks into usable
+      tools. Without local access to mentorship, or instruction, I turned to the
+      internet, and to books, as well as Archeological and Geological survey
+      data. What I found was a wealth of knowledge that had been recorded on the
+      subject, but was not actively being passed down in my community. 
+
+
+      Wolastoqiyik flintknappers once had a trade network of precious knappable
+      stones that spanned from Northern Labrador south into Maine, and possibly
+      even beyond. Given our history as some of the most accomplished
+      flintknappers, toolmakers, hunters, and trappers in the region, I was
+      truly disappointed to find that the bulk of our local knowledge on the
+      subject had been forgotten. Rather than being discouraged by this, I
+      realized that it meant I had an opportunity to bring that knowledge back,
+      not only to my own community, but to the wider global community as well.
+      This is the vision and purpose that drove me to the creation of Wabanaki
+      Stone Tools.
+
 
       *\~ Bran Blaze Palmater*
-
     actions:
       - type: Link
         label: See more of Brain Blaze Palmater's work
@@ -162,7 +180,7 @@ sections:
         altText: See more of Brain Blaze Palmater's work
     media:
       type: ImageBlock
-      url: /images/HistoricalMarysville.png
+      url: /images/Wabanaki Stone Tools Logo - Black.svg
       altText: Fun feature preview
     colors: bg-light-fg-dark
     styles:
@@ -190,32 +208,12 @@ sections:
           textAlign: left
           fontWeight: 700
     subtitle: ''
-    text: >+
-
-      Whether you’re a curious beginner or an educator looking to enrich your programming, Wabanaki Stone Tools offers immersive, hands-on flintknapping experiences tailored to your needs.
-
-      Workshops Include:
-      • A live presentation covering the history, tools, materials, and safety techniques
-      • Demonstrations of basic flintknapping methods
-      • Hands-on practice with provided tools and safety gear
-      • The chance to create and take home your own handmade arrowhead
-
-      Options:
-      🪨 Half-Day Workshop (3–4 hrs)
-      • 10–15 participants | $50/person
-
-      🪨 Full-Day Workshop (6–8 hrs)
-      • 15–30 participants | $50/person
-
-      All tools, safety equipment, and materials provided. Venue rental fees may apply.
-      Workshops can be adapted for adult or youth groups. For children under 8, please reach out directly to discuss safe participation.
+    text: "\nWhether you’re a curious beginner or an educator looking to enrich your programming, Wabanaki Stone Tools offers immersive, hands-on flintknapping experiences tailored to your needs.\nWorkshops Include: • A live presentation covering the history, tools, materials, and safety techniques • Demonstrations of basic flintknapping methods • Hands-on practice with provided tools and safety gear • The chance to create and take home your own handmade arrowhead\nOptions: \U0001FAA8 Half-Day Workshop (3–4 hrs) • 10–15 participants | $50/person\n\U0001FAA8 Full-Day Workshop (6–8 hrs) • 15–30 participants | $50/person\nAll tools, safety equipment, and materials provided. Venue rental fees may apply. Workshops can be adapted for adult or youth groups. For children under 8, please reach out directly to discuss safe participation.\n"
     actions:
       - type: Link
         label: Contact Us To Book
-        altText: >-
-          Contact Wabanaki Stone Tools To Book A Workshop
-        url: >-
-          /
+        altText: Contact Wabanaki Stone Tools To Book A Workshop
+        url: /
         showIcon: true
         icon: arrowRight
         iconPosition: right
