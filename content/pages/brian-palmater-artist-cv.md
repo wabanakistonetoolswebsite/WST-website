@@ -9,8 +9,20 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      I am an Indigenous Artist from New Brunswick, Canada. I have ancestors and
+      family members among
+
+      both the Wolastoqiyik and L’nuk peoples and am a Registered Band Member of
+      Neqotkuk (Tobique First
+
+      Nation). I am also the ONLY Maliseet Flintknapper currently operating in
+      New Brunswick at a professional
+
+      level and offering classes on this artform. My business was sponsored by
+      ArtsNB at its inception, and
+
+      they have continued to support my work as my business has grown over the
+      past few years.
     actions:
       - type: Button
         label: Get started
