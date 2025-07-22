@@ -44,7 +44,6 @@ sections:
       color: text-dark
     subtitle: Be in good company
     text: |
-      Brian Blaze Palmater
 
 
       Artist, Audio Engineer, Flintknapper & Flintknapping Instructor
