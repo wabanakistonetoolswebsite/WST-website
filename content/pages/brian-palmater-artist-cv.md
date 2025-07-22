@@ -104,7 +104,7 @@ sections:
         style: primary
     badge:
       type: Badge
-      label: This is a badge
+      label: 'Artist, Audio Engineer, Flintknapper & Flintknapping Instructor'
       color: text-primary
     colors: bg-light-fg-dark
     styles:
