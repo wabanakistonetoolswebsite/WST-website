@@ -144,6 +144,13 @@ sections:
         altText: Rangle logo
         elementId: ''
         url: /images/STONE POINTS 2024-2025 JAN (28).jpg
+      - type: ImageBlock
+        url: /images/hero2.svg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
     elementId: ''
     motion: static
     colors: bg-light-fg-dark
