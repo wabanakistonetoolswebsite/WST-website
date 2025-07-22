@@ -110,6 +110,8 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+      text:
+        textAlign: left
 slug: brian-palmater-artist-cv
 isDraft: false
 seo:
