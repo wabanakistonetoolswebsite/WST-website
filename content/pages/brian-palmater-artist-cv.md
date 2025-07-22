@@ -115,7 +115,6 @@ sections:
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
-        url: /images/PXL_20250130_215945082.MP.jpg
         altText: Wellster logo
         elementId: ''
       - type: ImageBlock
