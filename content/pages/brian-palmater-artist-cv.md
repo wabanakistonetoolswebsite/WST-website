@@ -23,14 +23,7 @@ sections:
 
       they have continued to support my work as my business has grown over the
       past few years.
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/Cocagne workshop 2024 (9).png
