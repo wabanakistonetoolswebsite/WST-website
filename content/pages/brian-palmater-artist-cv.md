@@ -54,7 +54,9 @@ sections:
 
       <https://www.facebook.com/WabanakiStoneTools>
 
-      Education:
+
+
+      ## Education:
 
       Atlantica Centre for the Arts, Recording Arts 2011
 
@@ -74,7 +76,7 @@ sections:
 
       GDDPC, Club 50 D’Age D’Or, Cocagne, January 27, 2024
 
-      Collections:
+      ## Collections:
 
       Neqotkuk Art Studio
 
