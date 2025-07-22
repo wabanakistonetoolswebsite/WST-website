@@ -108,7 +108,7 @@ sections:
       text:
         textAlign: left
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/Cocagne workshop 2024 (9).png
