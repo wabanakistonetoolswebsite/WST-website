@@ -24,12 +24,6 @@ sections:
       they have continued to support my work as my business has grown over the
       past few years.
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
