@@ -131,7 +131,7 @@ sections:
         altText: Contentful logo
         elementId: ''
       - type: ImageBlock
-        url: /images/sanity-logo.svg
+        url: /images/STONE POINTS 2024-2025 JAN (72).jpg
         altText: Sanity logo
         elementId: ''
       - type: ImageBlock
