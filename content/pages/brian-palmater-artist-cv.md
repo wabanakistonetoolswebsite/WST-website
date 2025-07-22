@@ -111,7 +111,7 @@ sections:
     subtitle: Our customers
     images:
       - type: ImageBlock
-        url: /images/empathy-logo.svg
+        url: /images/Cocagne workshop 2024 (9).png
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
