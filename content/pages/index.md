@@ -227,7 +227,7 @@ sections:
     actions:
       - type: Link
         label: Brain Blaze Palmater's Artist CV
-        url: /platform
+        url: /blaze-palmater-artist-cv
         showIcon: true
         icon: arrowRight
         iconPosition: right
