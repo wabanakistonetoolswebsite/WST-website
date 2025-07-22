@@ -136,7 +136,7 @@ sections:
       - type: ImageBlock
         altText: Rangle logo
         elementId: ''
-        url: /images/STONE POINTS 2024-2025 JAN (223).jpg
+        url: /images/PXL_20240316_224350921.jpg
     elementId: ''
     motion: static
     colors: bg-light-fg-dark
