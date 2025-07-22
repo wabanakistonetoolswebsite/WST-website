@@ -45,6 +45,8 @@ sections:
     subtitle: Be in good company
     text: |
       Brian Blaze Palmater
+
+
       Artist, Audio Engineer, Flintknapper & Flintknapping Instructor
 
       143 Ch DesBreau
