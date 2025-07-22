@@ -44,7 +44,7 @@ sections:
       color: text-dark
     subtitle: Be in good company
     text: |
-      Brian Blaze Palmater
+      <div style="text-align: left">Brian Blaze Palmater</div>
 
       Artist, Audio Engineer, Flintknapper & Flintknapping Instructor
 
@@ -57,8 +57,6 @@ sections:
       (506) 852-6083
 
       <https://www.facebook.com/WabanakiStoneTools>
-
-
 
       Education:
 
@@ -80,13 +78,9 @@ sections:
 
       GDDPC, Club 50 D’Age D’Or, Cocagne, January 27, 2024
 
-
-
       Collections:
 
       Neqotkuk Art Studio
-
-
 
       Awards and Grants:
 
