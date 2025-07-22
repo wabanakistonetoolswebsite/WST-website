@@ -40,7 +40,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: Brian Blaze Palmater
       color: text-dark
     subtitle: Be in good company
     text: |
