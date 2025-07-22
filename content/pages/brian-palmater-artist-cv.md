@@ -130,6 +130,13 @@ sections:
         altText: Contentful logo
         elementId: ''
       - type: ImageBlock
+        url: /images/hero2.svg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
         url: /images/STONE POINTS 2024-2025 JAN (72).jpg
         altText: Sanity logo
         elementId: ''
