@@ -44,8 +44,7 @@ sections:
       color: text-dark
     subtitle: Be in good company
     text: |
-      <div style="text-align: left">Brian Blaze Palmater</div>
-
+      Brian Blaze Palmater
       Artist, Audio Engineer, Flintknapper & Flintknapping Instructor
 
       143 Ch DesBreau
