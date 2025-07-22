@@ -44,6 +44,12 @@ sections:
       color: text-dark
     subtitle: ''
     text: |
+      143 Ch DesBreau
+      Cocagne, NB
+      E4R-2M8
+      (506) 852-6083
+      https\://www\.facebook.com/WabanakiStoneTools
+
       Education:
 
       Atlantica Centre for the Arts, Recording Arts 2011
