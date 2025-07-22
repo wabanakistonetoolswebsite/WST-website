@@ -43,7 +43,7 @@ sections:
       text: Brian Blaze Palmater
       color: text-dark
     subtitle: >-
-      143 Ch DesBreauCocagne, NBE4R-2M8(506)
+      143 Ch DesBreau Cocagne, NBE4R-2M8(506)
       852-6083https://www.facebook.com/WabanakiStoneTools
     text: |
       Education:
