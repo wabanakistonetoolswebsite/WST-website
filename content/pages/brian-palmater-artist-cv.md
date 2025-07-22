@@ -127,7 +127,7 @@ sections:
         altText: Telus logo
         elementId: ''
       - type: ImageBlock
-        url: /images/contenful-logo.svg
+        url: /images/STONE POINTS 2024-2025 JAN (35).jpg
         altText: Contentful logo
         elementId: ''
       - type: ImageBlock
