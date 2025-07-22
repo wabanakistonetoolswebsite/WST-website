@@ -39,7 +39,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/Brian Blaze Palmater.png
+      url: /images/Cocagne workshop 2024 (9).png
       altText: Fun feature preview
     badge:
       type: Badge
