@@ -285,18 +285,26 @@ sections:
       *   The chance to create and take home your own handmade arrowhead
 
 
-      **Options:**
+      **Afternoon Workshop:** (3-4 Hours Runtime) May be put on for a class of
+      up to 15 Participants.
+
+      Cost: 500$ (Plus Travel and/or Lodging Costs, if Required)
 
 
-      Half-Day Workshop (3–4 hrs) 10–15 participants | $50/person
+
+      **Full Day Workshop:** (6-8 Hours Runtime) May be put on for a class of up
+      to 30 Participants.
+
+      Cost: 800$ (Plus Travel and/or Lodging Costs, if Required)
 
 
-      Full-Day Workshop (6–8 hrs) 15–30 participants | $50/person
+      *Note: I am located near Moncton, NB. Travel Costs will only be charged if
+      the distance I need to travel is
 
+      greater than 100KM. Lodging Costs will only be charged if Lodging is
+      necessary due to Travel Distance,
 
-      All tools, safety equipment, and materials provided. Venue rental fees may
-      apply. Workshops can be adapted for adult or youth groups. For children
-      under 8, please reach out directly to discuss safe participation.
+      or Scheduling Requirements.*
     actions:
       - type: Link
         label: Contact Us To Book
