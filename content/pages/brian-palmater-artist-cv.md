@@ -111,7 +111,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/Cocagne workshop 2024 (9).png
+        url: /images/STONE POINTS 2024-2025 JAN (79).jpg
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
