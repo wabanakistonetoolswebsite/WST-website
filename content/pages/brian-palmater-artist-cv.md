@@ -84,12 +84,6 @@ sections:
 
       ArtsNB Equinox Program for Indigenous Artists, May 27, 2025
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
