@@ -226,7 +226,7 @@ sections:
       *\~ Bran Blaze Palmater*
     actions:
       - type: Link
-        label: See more of Brain Blaze Palmater's work
+        label: Brain Blaze Palmater's Artist CV
         url: /platform
         showIcon: true
         icon: arrowRight
