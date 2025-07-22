@@ -145,7 +145,7 @@ sections:
         elementId: ''
         url: /images/STONE POINTS 2024-2025 JAN (28).jpg
       - type: ImageBlock
-        url: /images/STONE POINTS 2024-2025 JAN (223).jpg
+        url: /images/STONE POINTS 2024-2025 JAN (23).jpg
         altText: Image alt text placeholder
         elementId: ''
         styles:
