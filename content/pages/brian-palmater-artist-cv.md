@@ -134,7 +134,6 @@ sections:
         altText: Sanity logo
         elementId: ''
       - type: ImageBlock
-        url: /images/Tobique Meet and greet 2024 (13).jpg
         altText: Rangle logo
         elementId: ''
     elementId: ''
