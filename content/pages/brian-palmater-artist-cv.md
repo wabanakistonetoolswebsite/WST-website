@@ -119,7 +119,7 @@ sections:
         altText: Wellster logo
         elementId: ''
       - type: ImageBlock
-        url: /images/vise-logo.svg
+        url: /images/STONE POINTS 2024-2025 JAN (223).jpg
         altText: Vise logo
         elementId: ''
       - type: ImageBlock
