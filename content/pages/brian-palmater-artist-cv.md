@@ -83,14 +83,7 @@ sections:
       ArtsNB Equinox Program for Indigenous Artists, November 16, 2023
 
       ArtsNB Equinox Program for Indigenous Artists, May 27, 2025
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     badge:
       type: Badge
       label: 'Artist, Audio Engineer, Flintknapper & Flintknapping Instructor'
