@@ -5,38 +5,157 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Brian Palmater
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: ''
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+      I am an Indigenous Artist from New Brunswick, Canada. I have ancestors and
+      family members among
+
+      both the Wolastoqiyik and L’nuk peoples and am a Registered Band Member of
+      Neqotkuk (Tobique First
+
+      Nation). I am also the ONLY Maliseet Flintknapper currently operating in
+      New Brunswick at a professional
+
+      level and offering classes on this artform. My business was sponsored by
+      ArtsNB at its inception, and
+
+      they have continued to support my work as my business has grown over the
+      past few years.
+    actions: []
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/Cocagne workshop 2024 (9).png
       altText: Fun feature preview
     badge:
       type: Badge
-      label: This is a badge
+      label: Artist CV
       color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Brian Blaze Palmater
+      color: text-dark
+    subtitle: ''
+    text: |
+      143 Ch DesBreau
+
+      Cocagne, NB
+
+      E4R-2M8
+
+      (506) 852-6083
+
+      <https://www.facebook.com/WabanakiStoneTools>
+
+      #### Education:
+
+      Atlantica Centre for the Arts, Recording Arts 2011
+
+      Workshops Hosted:
+
+      Under One Sky Friendship Centre, Fredericton, June 26 & 27, 2025
+
+      Neqotkuk Art Studio, Tobique First Nation, May 2, 2025
+
+      First Nations Storytellers, Hilton Hotel, Saint John, March 22, 2025
+
+      JEDI, Brookside Mall, Fredericton, March 7, 2025
+
+      JEDI, Brookside Mall, Fredericton, August 21, 2024
+
+      First Nations Storytellers, Fort La Tour, Saint John, August 20, 2024
+
+      GDDPC, Club 50 D’Age D’Or, Cocagne, January 27, 2024
+
+      #### Collections:
+
+      Neqotkuk Art Studio
+
+      Awards and Grants:
+
+      ArtsNB Equinox Program for Indigenous Artists, November 16, 2023
+
+      ArtsNB Equinox Program for Indigenous Artists, May 27, 2025
+    actions: []
+    badge:
+      type: Badge
+      label: 'Artist, Audio Engineer, Flintknapper & Flintknapping Instructor'
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
+      text:
+        textAlign: left
+  - type: ImageGallerySection
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/STONE POINTS 2024-2025 JAN (79).jpg
+        altText: Empathy logo
+        elementId: ''
+      - type: ImageBlock
+        altText: Wellster logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/STONE POINTS 2024-2025 JAN (223).jpg
+        altText: Vise logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/STONE POINTS 2024-2025 JAN (23).jpg
+        altText: Telus logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/STONE POINTS 2024-2025 JAN (41).jpg
+        altText: Contentful logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/STONE POINTS 2024-2025 JAN (60).jpg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/STONE POINTS 2024-2025 JAN (72).jpg
+        altText: Sanity logo
+        elementId: ''
+      - type: ImageBlock
+        altText: Rangle logo
+        elementId: ''
+        url: /images/STONE POINTS 2024-2025 JAN (28).jpg
+      - type: ImageBlock
+        url: /images/STONE POINTS 2024-2025 JAN (226).jpg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+    elementId: ''
+    motion: static
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
 slug: brian-palmater-artist-cv
 isDraft: false
 seo:
