@@ -43,9 +43,33 @@ sections:
       text: Business Consulting
       color: text-dark
     subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: |
+      Brian Blaze Palmater
+      Artist, Audio Engineer, Flintknapper & Flintknapping Instructor
+      143 Ch DesBreau
+      Cocagne, NB
+      E4R-2M8
+      (506) 852-6083
+      https\://www\.facebook.com/WabanakiStoneTools
+
+      Education:
+      Atlantica Centre for the Arts, Recording Arts 2011
+
+      Workshops Hosted:
+      Under One Sky Friendship Centre, Fredericton, June 26 & 27, 2025
+      Neqotkuk Art Studio, Tobique First Nation, May 2, 2025
+      First Nations Storytellers, Hilton Hotel, Saint John, March 22, 2025
+      JEDI, Brookside Mall, Fredericton, March 7, 2025
+      JEDI, Brookside Mall, Fredericton, August 21, 2024
+      First Nations Storytellers, Fort La Tour, Saint John, August 20, 2024
+      GDDPC, Club 50 D’Age D’Or, Cocagne, January 27, 2024
+
+      Collections:
+      Neqotkuk Art Studio
+
+      Awards and Grants:
+      ArtsNB Equinox Program for Indigenous Artists, November 16, 2023
+      ArtsNB Equinox Program for Indigenous Artists, May 27, 2025
     actions:
       - type: Button
         label: Get started
