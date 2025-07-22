@@ -123,7 +123,7 @@ sections:
         altText: Vise logo
         elementId: ''
       - type: ImageBlock
-        url: /images/telus-logo.svg
+        url: /images/STONE POINTS 2024-2025 JAN (23).jpg
         altText: Telus logo
         elementId: ''
       - type: ImageBlock
